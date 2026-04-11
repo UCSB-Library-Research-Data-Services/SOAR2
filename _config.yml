@@ -14,7 +14,7 @@ schoolurl: "https://www.library.ucsb.edu/"
 # Repo information (for repo_source, use the format "username/repo")
 repo_copyright: Copyright 2026 by XXX
 repo_license: Licensed under XXX
-repo_source: xiuqili-xl/soar2-test
+repo_source: xiuqili-xl/soar2-dev
 
 
 program_info: |
