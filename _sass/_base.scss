@@ -133,9 +133,12 @@ a {
     }
 }
 
-/* .post-content a, .home a {
-	font-weight: 500;
-} */
+.page-content a,
+.post-content a, 
+.home a {
+  color: #09847A;
+  text-decoration: underline;
+}
 
 /**
  * Blockquotes

@@ -32,7 +32,7 @@ SOAR² is highly interactive. You’ll participate in:
 * Visits to campus research facilities
 * A keynote talk from a researcher doing open and reproducible science
 
-Sessions are led by facilitators from different disciplines (see Instructors tab), so you’ll gain perspectives that apply across fields.
+Sessions are led by facilitators from different disciplines (see [Instructors]({{ "/instructors/" | relative_url }}) page), so you’ll gain perspectives that apply across fields.
 
 <br/>
 
