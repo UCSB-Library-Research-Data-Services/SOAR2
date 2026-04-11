@@ -24,13 +24,13 @@ layout: default
         <div style="width:55%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Organizers</h2>
-                {% for organizer in site.data.entity.organizers %}
+                {% for org in site.data.entity.organizers %}
                 <div class="image--cover-container">
-                    <img src="{{organizer.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if organizer.webpage %}
-                    <p><a href="{{ organizer.webpage }}">{{organizer.name}}</a></p>
+                    <img src="{{org.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if org.webpage %}
+                    <p><a href="{{ org.webpage }}">{{org.name}}</a></p>
                     {% else %}
-                    <p>{{organizer.name}}</p>
+                    <p>{{org.name}}</p>
                     {% endif %}
                 </div>
                 {% endfor %}
@@ -40,13 +40,13 @@ layout: default
         <div style="width:45%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Funder</h2>
-                {% for funder in site.data.entity.funder %}
+                {% for fdr in site.data.entity.funder %}
                 <div class="image--cover-container">
-                    <img src="{{funder.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if funder.webpage %}
-                    <p><a href="{{ funder.webpage }}">{{funder.name}}</a></p>
+                    <img src="{{fdr.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if fdr.webpage %}
+                    <p><a href="{{ fdr.webpage }}">{{fdr.name}}</a></p>
                     {% else %}
-                    <p>{{funder.name}}</p>
+                    <p>{{fdr.name}}</p>
                     {% endif %}
                 </div>
                 {% endfor %}
