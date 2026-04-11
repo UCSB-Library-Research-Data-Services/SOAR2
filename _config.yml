@@ -4,8 +4,8 @@ course_description: 3-day intensive program for undergraduate students on open a
 
 course_semester: "Sep 2026"
 
-baseurl: "/soar2-test"                        # the subpath of your site, e.g. /blog/
 url: "http://xiuqili-xl.github.io/"        # the base hostname & protocol for your site
+baseurl: "/soar2-dev"                      # the subpath of your site, e.g. /blog/
 
 schoolname: "UCSB Library"
 schoolurl: "https://www.library.ucsb.edu/"
