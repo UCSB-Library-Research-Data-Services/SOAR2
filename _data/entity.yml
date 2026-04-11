@@ -7,10 +7,10 @@ organizers:
     profile_pic: /_images/entity/rds-logo.png
     webpage: https://www.library.ucsb.edu/research-data-services
   - name: URCA
-    profile_pic: /_images/entity/urca_logo.jpeg
+    profile_pic: /_images/entity/urca-logo.jpeg
     webpage: https://www.urca.ucsb.edu
 
 funder:
   - name: ORCA
-    profile_pic: /_images/entity/orca_logo.png
+    profile_pic: /_images/entity/orca-logo.png
     webpage: https://www.orcaopen.org/
