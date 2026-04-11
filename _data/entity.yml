@@ -3,14 +3,14 @@
 # Currently hidden until decided
 
 organizers:
-  - name: Research Data Services (RDS)
+  - name: RDS
     profile_pic: /_images/entity/rds-logo.png
     webpage: https://www.library.ucsb.edu/research-data-services
-  - name: Undergraduate Research and Creative Activities (URCA)
+  - name: URCA
     profile_pic: /_images/entity/urca_logo.jpeg
     webpage: https://www.urca.ucsb.edu
 
 funder:
-  - name: Open Research Community Accelerator (ORCA)
+  - name: ORCA
     profile_pic: /_images/entity/orca_logo.png
     webpage: https://www.orcaopen.org/
