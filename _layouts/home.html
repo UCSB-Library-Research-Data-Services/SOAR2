@@ -4,7 +4,13 @@ layout: default
 
 <div class="home">
 
+    <!-- Recreate the header for HOME; remove if works
     <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
+     -->
+    
+    <h1>{{ site.course_name }} </h1>
+    <p style="font-size: 30px;color: #0006;"> {{ site.course_semester }} </p>
+    <br />
 
     {% include announcements.html %}
     <br />

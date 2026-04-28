@@ -2,7 +2,7 @@
 course_name: Summer Open And Reproducible Research (SOAR²) Intensive DEV
 course_description: 3-day intensive program for undergraduate students on open and reproducible research
 
-course_semester: "Sep 2026"
+course_semester: "Sep 21-23, 2026"
 
 url: "http://xiuqili-xl.github.io/"        # the base hostname & protocol for your site
 baseurl: "/soar2-dev"                      # the subpath of your site, e.g. /blog/
