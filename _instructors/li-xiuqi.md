@@ -16,7 +16,7 @@ social_links:
      url: https://orcid.org/0000-0003-1796-8555
 #   - name: GitHub
 #     url: https://github.com/...
-   - name: LinkedIn
-     url: https://www.linkedin.com/in/xiuqili
+#   - name: LinkedIn
+#     url: https://www.linkedin.com/in/xiuqili
 
 ---
