@@ -12,9 +12,10 @@ schoolurl: "https://www.library.ucsb.edu/"
 
 
 # Repo information (for repo_source, use the format "username/repo")
-repo_copyright: Copyright 2026 by [TBA]
-repo_license: Licensed under [TBA]
-repo_source: xiuqili-xl/soar2-dev
+repo_copyright: Copyright 2017 Steven V. Miller; Copyright 2026 Regents of the University of California
+repo_license: MIT License
+# hide link to GitHub repo during application process
+# repo_source: xiuqili-xl/soar2-dev
 
 
 program_info: |
