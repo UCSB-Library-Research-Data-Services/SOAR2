@@ -8,10 +8,10 @@ permalink: /modules/    # change the page permalink and nav URL to /modules/, bu
 
 ![Tentative program schedule for SOAR²]({{ "/_images/schedule.png" | relative_url }})
 
-***Note: schedule subjected to change.***
+***Note: schedule of specific sessions subject to change.***
 
 <br/>
 
 ## Module Description
 
-***SOAR2 is organized around the research lifecycle—from getting involved in research to working with data, documenting your work, and sharing your findings.***
+***SOAR² is organized around the research lifecycle—from getting involved in research to working with data, documenting your work, and sharing your findings.***
