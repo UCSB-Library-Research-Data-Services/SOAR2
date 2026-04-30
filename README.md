@@ -1,6 +1,6 @@
-# Summer Open And Reproducible Research (SOAR²) DEV Page
+# Summer Open And Reproducible Research (SOAR²)
 
-Website source for the Summer Open And Reproducible Research (SOAR²) Camp, to be held on the UCSB campus from September 21–23, 2026.
+Website source code for the Summer Open And Reproducible Research (SOAR²) Camp, to be held on the UCSB campus from September 21–23, 2026.
  
 SOAR² is a three-day program for undergraduate students that aims to demystify the hidden curriculum of research and introduce open and reproducible practices as fundamental to conducting research. During these three days, students will participate in interactive modules, hands-on activities, field trips to campus research facilities, and your keynote talk. Students will learn about reproducible workflows, data management, research transparency, and open sharing. SOAR² is organized by the [UCSB Library](https://www.library.ucsb.edu/) in collaboration with [the Office of Undergraduate Research & Creative Activities (URCA)](https://urca.ucsb.edu/), with funding support from [the Open Research Community Accelerator](https://www.orcaopen.org/).
 
