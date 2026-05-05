@@ -4,7 +4,7 @@ layout: home
 
 **Are you conducting mentored research—or curious about getting started? Want to build practical research skills that you can apply immediately?**
 
-The Summer Open And Reproducible Research (SOAR²) Camp is a three-day, hands-on program designed for UCSB undergraduate students who want to navigate research with confidence. Whether you are already involved in a research project or just getting started, SOAR² will help you develop practical skills, understand research expectations, and learn how to contribute to research in transparent and responsible ways.
+The Summer Open And Reproducible Research (SOAR²) Camp is a three-day, hands-on program designed for UCSB *undergraduate* students who want to navigate research with confidence. Whether you are already involved in a research project or just getting started, SOAR² will help you develop practical skills, understand research expectations, and learn how to contribute to research in transparent and responsible ways.
 
 **SOAR² is free to attend, and meals are provided. Upon completion, you will receive a digital badge and a certificate.**
 
@@ -21,7 +21,7 @@ In just three days, you will:
 * Build confidence in communicating your research
 * Leave with a clear plan for your next steps in research
 
-See the **[MODULES]({{ "/modules/" | relative_url }}) tab** for more information about the program, including the tenative schedule and module descriptions.
+See the **[MODULES]({{ "/modules/" | relative_url }}) tab** for more information about the program, including the tentative schedule and module descriptions.
 
 <br/>
 
@@ -45,18 +45,18 @@ No prior research experience required! We welcome applications from **all UCSB u
 <br/>
 
 ## Program dates
-**Application opens**: May 13 - Jun 5, 2026
+**Application opens**: May 11 - Jun 5, 2026
 
-**Decisions released**: by Jun 12, 2026
+**Decisions released**: by mid Jun, 2026
 
-**Program dates**: Sep 21 - 23, 2026 (before the start of Fall Quarter instruction)
+**Program dates**: Sep 21 - 23, 2026 (between Fall move-in weekend and the start of Fall Quarter instruction)
 
 <br/>
 
 
 ## How to apply?
 
-**Applications will open in mid-May. Return to this webpage to submit your application.**
+**Applications will open in on May 11th. Return to this webpage to submit your application.**
 
 The application will include:
 
