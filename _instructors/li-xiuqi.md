@@ -14,6 +14,8 @@ hide_from_announcments: true
 social_links: 
    - name: ORCID
      url: https://orcid.org/0000-0003-1796-8555
+   - name: Google Scholar
+     url: https://scholar.google.com/citations?hl=en&authuser=3&user=sjsvP_QAAAAJ     
 #   - name: GitHub
 #     url: https://github.com/...
 #   - name: LinkedIn
