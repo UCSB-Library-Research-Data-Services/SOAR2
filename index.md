@@ -56,7 +56,7 @@ No prior research experience required! We welcome applications from **all UCSB u
 
 ## How to apply?
 
-**Applications will open in on May 11th. Return to this webpage to submit your application.**
+**Applications will open on May 11th. Return to this webpage to submit your application.**
 
 The application will include:
 
@@ -64,6 +64,21 @@ The application will include:
 * Short statements about your research interests and what you hope to gain from SOAR²
 
 <br/>
+
+
+## Selection criteria
+Successful applications will: 
+
+* Thoughtfully engage with a research question, topic, or problem
+* Demonstrate curiosity and openness to learning
+* Describe how you might explore a question using evidence, data, or other approaches
+* Express clear interest in the goals and themes of SOAR²
+* Provide specific and reflective responses about your interests and goals
+
+We do **not** expect advanced technical skills or fully developed research plans. We are more interested in how you think about research.
+
+<br/>
+
 
 ## Questions?
 Contact: rds [AT] library.ucsb.edu
