@@ -34,7 +34,7 @@ SOAR² is highly interactive. You’ll participate in:
 * Visits to campus research facilities
 * A keynote talk from a researcher doing open and reproducible science
 
-Sessions are led by facilitators from different disciplines (see **[INSTRUCTORS]({{ "/instructors/" | relative_url }}) page**), so you’ll gain perspectives that apply across fields.
+Sessions are led by [instructors and facilitators]({{ "/instructors/" | relative_url }}) from different disciplines, so you’ll gain perspectives that apply across fields.
 
 <br/>
 
@@ -45,7 +45,7 @@ No prior research experience required! We welcome applications from **all UCSB u
 <br/>
 
 ## Program dates
-**Application opens**: May 11 - Jun 5, 2026
+**Application opens**: May 11 - Jun 3, 2026
 
 **Decisions released**: by mid Jun, 2026
 
