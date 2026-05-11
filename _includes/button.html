@@ -1,6 +1,6 @@
 <button
   type="button"
-  onclick="window.location='{{ include.url }}'"
-  class="btn btn-{{ include.button_class }} active {{ include.custom_class }}">
+  onclick="{% if include.new_tab %}window.open('{{ include.url }}', '_blank', 'noopener,noreferrer'){% else %}window.location='{{ include.url }}'{% endif %}"
+  class="btn btn-{{ include.button_class }} active{% if include.custom_class %} {{ include.custom_class }}{% endif %}">
   {{ include.button_name }}
 </button>

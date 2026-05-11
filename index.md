@@ -61,6 +61,7 @@ No prior research experience required! We welcome applications from **all UCSB u
   button_class="outline-primary"
   custom_class="soar-apply-btn"
   url="https://ucsb.co1.qualtrics.com/jfe/form/SV_dmPDAXx7f20vhCm"
+  new_tab=true
 %}
 
 Submit your application by **Jun 3rd, 11:59 pm Pacific Time**. The application will include:
