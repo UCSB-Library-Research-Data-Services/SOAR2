@@ -56,12 +56,14 @@ No prior research experience required! We welcome applications from **all UCSB u
 
 ## How to apply?
 
-**Applications will open on May 11th. Return to this webpage to submit your application.**
+[Apply here](https://ucsb.co1.qualtrics.com/jfe/form/SV_dmPDAXx7f20vhCm){: .btn}
 
-The application will include:
+Submit your application by **Jun 3rd, 11:59 pm Pacific Time**. The application will include:
 
 * Basic information about you
 * Short statements about your research interests and what you hope to gain from SOAR²
+
+Preview a copy of the application form and evaluation criteria [here](https://docs.google.com/document/d/1aK46M_7EeNLn0FVSPeWySzbpEiXd0ene1Y7RT7K9HAQ/edit?usp=sharing).
 
 <br/>
 
