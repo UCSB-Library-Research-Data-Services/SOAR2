@@ -1,4 +1,4 @@
 ---
 date: 2026-05-01T00:00:00-8:00
 ---
-We are pleased to announce **Dr. James Fraser**, Professor and Chair of BioEngineering, UCSF as our keynote speaker!
+We are pleased to announce **Dr. James Fraser**, Professor and Chair of BioEngineering at UCSF as our keynote speaker!
