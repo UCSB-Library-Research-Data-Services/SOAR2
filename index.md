@@ -64,7 +64,7 @@ No prior research experience required! We welcome applications from **all UCSB u
   new_tab=true
 %}
 
-Submit your application by **Jun 3rd, 11:59 pm Pacific Time**. The application will include:
+Submit your application by **Jun 3rd, 11:59 pm Pacific Time**. The application includes:
 
 * Basic information about you
 * Short statements about your research interests and what you hope to gain from SOAR²
