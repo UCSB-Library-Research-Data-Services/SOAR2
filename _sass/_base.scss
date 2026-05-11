@@ -542,3 +542,25 @@ a.tosu {
         border-bottom: 0 !important;
     }
 }
+
+
+/**
+ * Buttons
+ */
+.soar-apply-btn {
+  background-color: #09847A !important;
+  border-color: #09847A !important;
+  color: #fff !important;
+  font-size: 1.25rem;
+  font-weight: 700;
+  padding: 0.9rem 2rem;
+  border-radius: 0.5rem;
+}
+
+.soar-apply-btn:hover,
+.soar-apply-btn:focus,
+.soar-apply-btn:active {
+  background-color: #076b63 !important;
+  border-color: #076b63 !important;
+  color: #fff !important;
+}

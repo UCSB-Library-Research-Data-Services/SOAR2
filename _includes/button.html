@@ -1,1 +1,6 @@
-<button type="button" onclick="window.location='{{include.url}}'" class="btn btn-{{include.button_class}} active">{{include.button_name}}</button>
+<button
+  type="button"
+  onclick="window.location='{{ include.url }}'"
+  class="btn btn-{{ include.button_class }} active {{ include.custom_class }}">
+  {{ include.button_name }}
+</button>
