@@ -5,7 +5,7 @@ degree:
 
 title: Middle Eastern Studies Librarian
 bio: Shima Moradi is the Middle Eastern Studies Librarian and Slavic and Area Studies Collection Strategist at the UCSB Library. [Shima's bio to come]
-thumbnail: /_images/instructors/moradi-shima.jpg
+thumbnail: /_images/instructors/moradi-shima.png
 
 hide_from_announcments: true
 
