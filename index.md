@@ -49,7 +49,7 @@ No prior research experience required! We welcome applications from **all UCSB u
 
 **Decisions released**: by mid Jun, 2026
 
-**Program dates**: Sep 21 - 23, 2026 (between Fall move-in weekend and the start of Fall Quarter instruction)
+**Program dates**: Sep 21 - 23, 2026 (between Fall move-in weekend and the start of classes)
 
 <br/>
 
