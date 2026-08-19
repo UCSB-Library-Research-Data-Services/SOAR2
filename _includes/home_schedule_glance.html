@@ -10,9 +10,15 @@
 
     <div class="schedule-glance__grid">
         {% for session in schedule_cards %}
+
+        {% assign session_link = session.session_url %}
+        {% if session.layout == "lectures_individual" %}
+        {% assign session_link = session.url %}
+        {% endif %}
+
         <a
             class="schedule-glance__card schedule-glance__card--{{ session.session_type_key }}"
-            href="{{ session.session_url | relative_url }}"
+            href="{{ session_link | relative_url }}"
         >
             <span class="schedule-glance__ribbon">
             {{ session.session_type }}
