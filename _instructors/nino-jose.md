@@ -1,5 +1,7 @@
 ---
 type: instructor
+
+instructor_id: nino-muriel-jose
 name: Jose Niño Muriel
 degree: 
 

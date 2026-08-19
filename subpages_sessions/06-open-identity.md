@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Module 6: Open Research Identity"
-permalink: /sessions/module6/
+permalink: /sessions/module6-old/
+published: false
 ---
 
 ## Module Description

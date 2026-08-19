@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Module 4: Communicating Research"
-permalink: /sessions/module4/
+permalink: /sessions/module4-old/
+published: false
 ---
 
 ## Module Description

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Module 2: Data in Practice"
-permalink: /sessions/module2/
+permalink: /sessions/module2-old/
+published: false
 ---
 
 ## Module Description 

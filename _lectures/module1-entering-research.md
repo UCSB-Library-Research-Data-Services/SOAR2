@@ -34,13 +34,6 @@ home_schedule_order: 1
 home_day_label: "Day 1"
 home_card_description: "Explore the research lifecycle, refine a research question, and discover opportunities to get involved at UCSB"
 
-links: 
-    - url: /sessions/module1/
-      name: Module webpage
-#    - url: https://google.com
-#      name: Session Slides
-#    - url: /session_materials/from-template/linalg_lecture_1.pdf
-#      name: notes
 ---
 [//]: # Item in this section gets added to the Schedule page
 [//]: # #- [Readings 1](http://example.com)

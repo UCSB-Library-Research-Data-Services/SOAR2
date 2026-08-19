@@ -1,5 +1,7 @@
 ---
 type: instructor
+
+instructor_id: janee-greg
 name: Greg Janeé
 degree: 
 

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Module 5: Gen AI in Research"
-permalink: /sessions/module5/
+permalink: /sessions/module5-old/
+published: false
 ---
 
 ## Module Description

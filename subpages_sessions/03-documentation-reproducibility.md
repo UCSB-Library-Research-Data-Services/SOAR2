@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Module 3: Documentation & Reproducibility"
-permalink: /sessions/module3/
+permalink: /sessions/module3-old/
+published: false
 ---
 
 ## Module Description
