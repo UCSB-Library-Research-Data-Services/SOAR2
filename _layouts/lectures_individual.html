@@ -46,11 +46,13 @@ layout: default
           | first
         %}
 
-        {% if instructor %}
-          {{ instructor.name }}{% unless forloop.last %} and {% endunless %}
-        {% else %}
-          {{ instructor_id }}{% unless forloop.last %} and {% endunless %}
-        {% endif %}
+      {% if instructor %}
+        <a href="{{ '/instructors/' | relative_url }}#{{ instructor.instructor_id }}">
+          {{ instructor.name }}
+        </a>{% unless forloop.last %} and {% endunless %}
+      {% else %}
+        {{ instructor_id }}{% unless forloop.last %} and {% endunless %}
+      {% endif %}
       {% endfor %}
     {% endif %}
 
