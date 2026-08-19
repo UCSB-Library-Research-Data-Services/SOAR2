@@ -14,8 +14,7 @@ schoolurl: "https://www.library.ucsb.edu/"
 # Repo information (for repo_source, use the format "username/repo")
 repo_copyright: Copyright (c) 2017 Steven V. Miller; Copyright (c) 2026 Regents of the University of California
 repo_license: MIT License
-# hide link to GitHub repo during application process
-# repo_source: ucsb-library-research-data-services/SOAR2
+repo_source: xiuqili-xl/SOAR2-TESTING           # ucsb-library-research-data-services/SOAR2
 
 
 program_info: |
