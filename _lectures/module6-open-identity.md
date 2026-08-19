@@ -11,7 +11,12 @@ date: 2026-09-23T9:00:00-7:00
 location: Loma Pelona Center
 
 title: Open Research Identity
-description: Start developing your presence as a researcher. You’ll learn how to create a scholarly profile, showcase your work, and identify opportunities to grow your skills and experience. This module also helps you think about your next steps and how to navigate research environments with confidence.
+description: Start building your identity and presence as a researcher. You’ll learn how to communicate your research contributions, develop your scholarly profiles, and reflect on your skills and goals. You’ll also identify concrete next steps for your continued growth as a researcher.
+learning_objectives:
+  - Communicate research experiences and accomplishments through a CV or résumé
+  - Create and maintain an open scholarly profile using ORCID
+  - Reflect on research skills, experiences, and areas for growth
+  - Set goals and identify resources and mentors to support continued research and professional development
 
 lead_instructors:
   - cong-huyen-anne

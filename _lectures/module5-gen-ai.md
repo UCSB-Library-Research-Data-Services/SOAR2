@@ -11,7 +11,12 @@ date: 2026-09-23T9:00:00-7:00
 location: Loma Pelona Center
 
 title: Generative AI in Research
-description: Explore potential uses of generative AI tools in research workflows. You’ll examine both the possibilities and limitations of these tools, with an emphasis on using AI intentionally, critically, and responsibly in research settings. This module will also touch upon important questions around transparency, reproducibility, bias, and intellectual contribution.
+description: Explore how generative AI can be used across research workflows. You’ll examine both the possibilities and limitations of these tools, practice using AI for research tasks, and consider how to use it intentionally, critically, and responsibly. Along the way, you’ll explore questions around privacy, bias, transparency, reproducibility, and disclosure of AI use. 
+learning_objectives:
+  - Identify potential uses and limitations of generative AI across the research workflow
+  - Apply generative AI tools to support specific research tasks
+  - Evaluate considerations for using generative AI critically and responsibly in research
+  - Document and disclose the use of generative AI in research workflows and outputs
 
 lead_instructors:
   - melo-florez-jairo

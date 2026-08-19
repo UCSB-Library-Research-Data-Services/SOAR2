@@ -23,6 +23,20 @@ layout: default
 
     <br/>
 
+    {% if page.learning_objectives and page.learning_objectives.size > 0 %}
+      <h2>Learning Objectives</h2>
+
+      <p>By the end of this module, you will be able to:</p>
+
+      <ul>
+        {% for objective in page.learning_objectives %}
+          <li>{{ objective }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    <br/>
+    
     {% if page.lead_instructors %}
       <h2>Lead Instructors</h2>
 
