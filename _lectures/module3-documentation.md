@@ -13,11 +13,11 @@ location: Loma Pelona Center
 title: Documentation & Reproducibility
 description: Learn how to keep your research organized, understandable, and reusable. You’ll learn about strategies for documenting your work—from keeping clear research records to describing data and organizing files—so others (and your future self) can understand, reproduce, and build on what you’ve done.
 learning_objectives:
-  - Describe the research data lifecycle and the role of documentation throughout it
-  - Explain how documentation supports transparency, reproducibility, and reuse
-  - Apply documentation practices in different research contexts, including experimental records and data description
-  - Organize research projects using effective folder structures and file-naming conventions
-  - Recognize how version control can be used to track changes to research files
+  - "**Describe** the research data lifecycle and the role of documentation throughout it"
+  - "**Explain** how documentation supports transparency, reproducibility, and reuse"
+  - "**Apply** documentation practices in different research contexts, including experimental records and data description"
+  - "**Organize** research projects using effective folder structures and file-naming conventions"
+  - "**Recognize** how version control can be used to track changes to research files"
 
 
 lead_instructors:

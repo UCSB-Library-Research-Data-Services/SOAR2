@@ -13,12 +13,12 @@ location: Loma Pelona Center
 title: Entering Research
 description: Learn how research works and how you can become part of it. You'll explore the research lifecycle, develop a research question, discover strategies for finding scholarly literature, and learn how research teams support the research process. The module concludes with an introduction to open research and the principles that guide responsible research practices.
 learning_objectives:
-  - Define research and describe the research lifecycle
-  - Develop and evaluate a research question
-  - Identify strategies for finding scholarly literature 
-  - Describe the people, organizations, and institutions that make up the research ecosystem
-  - Identify pathways for getting involved in undergraduate research
-  - Explain how openness, transparency, and accessibility contribute to responsible research practices
+  - "**Define** research and describe the research lifecycle"
+  - "**Develop** and **evaluate** a research question"
+  - "**Identify** strategies for finding scholarly literature "
+  - "**Describe** the people, organizations, and institutions that make up the research ecosystem"
+  - "**Identify** pathways for getting involved in undergraduate research"
+  - "**Explain** how openness, transparency, and accessibility contribute to responsible research practices"
 
 lead_instructors:
   - li-xiuqi

@@ -13,10 +13,10 @@ location: Loma Pelona Center
 title: Communicating Research
 description: Explore the many ways that research is communicated and shared, from presentations and scholarly publications to data, code, and other research outputs. You’ll practice talking about your research, learn how scholarly publishing works, and consider how research can be shared and reused responsibly and openly.
 learning_objectives:
-  - Explore ways to communicate research to different audiences and in different formats
-  - Describe the scholarly publishing process and common approaches to scholarly publishing
-  - Identify different ways research outputs can be shared, including data, code, and protocols
-  - Evaluate considerations for sharing and reusing research responsibly and openly
+  - "**Explore** ways to communicate research to different audiences and in different formats"
+  - "**Describe** the scholarly publishing process and common approaches to scholarly publishing"
+  - "**Identify** different ways research outputs can be shared, including data, code, and protocols"
+  - "**Evaluate** considerations for sharing and reusing research responsibly and openly"
 
 
 lead_instructors:

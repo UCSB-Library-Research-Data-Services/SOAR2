@@ -30,7 +30,7 @@ layout: default
 
       <ul>
         {% for objective in page.learning_objectives %}
-          <li>{{ objective }}</li>
+          <li>{{ objective | markdownify | remove: '<p>' | remove: '</p>' }}</li>
         {% endfor %}
       </ul>
     {% endif %}
