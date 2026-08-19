@@ -1,5 +1,7 @@
 ---
 type: instructor
+
+instructor_id: curty-renata
 name: Renata Curty
 degree:
 title: Social Science Research Facilitator

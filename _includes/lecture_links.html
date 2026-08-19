@@ -1,11 +1,15 @@
+{% if include.lecture.layout == "lectures_individual" %}
+  [<a
+    title="View {{ include.lecture.title }}"
+    href="{{ include.lecture.url | relative_url }}"
+  >Module webpage</a>]
+{% endif %}
 
-    {% if include.lecture.links %}
-    {% for link in include.lecture.links %}
-    [<a title="Download {{ link.name }}" href="
-    {% if link.url contains '://' %}
-      {{ link.url }} 
-    {% else %}
-      {{ link.url | prepend: site.baseurl }} 
-    {% endif %}">{{ link.name }}</a>]
-    {% endfor %}
-    {% endif %}
+{% if include.lecture.links %}
+  {% for link in include.lecture.links %}
+    [<a
+      title="{{ link.name }}"
+      href="{% if link.url contains '://' %}{{ link.url }}{% else %}{{ link.url | relative_url }}{% endif %}"
+    >{{ link.name }}</a>]
+  {% endfor %}
+{% endif %}

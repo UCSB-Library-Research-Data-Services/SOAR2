@@ -1,0 +1,138 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">
+      {% if page.module_number %}
+        Module {{ page.module_number }}: {{ page.title }}
+      {% else %}
+        {{ page.title }}
+      {% endif %}
+    </h1>
+  </header>
+
+  <article class="post-content">
+
+    {% if page.description %}
+      <h2>Module Description</h2>
+      {{ page.description | markdownify }}
+    {% endif %}
+
+    <br/>
+
+    {% if page.learning_objectives and page.learning_objectives.size > 0 %}
+      <h2>Learning Objectives</h2>
+
+      <p>By the end of this module, you will be able to:</p>
+
+      <ul>
+        {% for objective in page.learning_objectives %}
+          <li>{{ objective | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    <br/>
+    
+    {% if page.lead_instructors %}
+      <h2>Lead Instructors</h2>
+
+      {% for instructor_id in page.lead_instructors %}
+        {% assign instructor = site.instructors
+          | where: "instructor_id", instructor_id
+          | first
+        %}
+
+      {% if instructor %}
+        <a href="{{ '/instructors/' | relative_url }}#{{ instructor.instructor_id }}">
+          {{ instructor.name }}
+        </a>{% unless forloop.last %} and {% endunless %}
+      {% else %}
+        {{ instructor_id }}{% unless forloop.last %} and {% endunless %}
+      {% endif %}
+      {% endfor %}
+    {% endif %}
+
+    <br/>
+    <br/>
+
+    <h2>Slides and Handouts</h2>
+
+    {% if page.materials_status == "forthcoming" %}
+      <p>TBA</p>
+    {% else %}
+
+      {% if page.slides and page.slides.size > 0 %}
+        <h3>Slides</h3>
+        <ul>
+          {% for item in page.slides %}
+            <li>
+              <a href="{% if item.url contains '://' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}">
+                {{ item.name }}
+              </a>
+              {% if item.description %}
+                — {{ item.description }}
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+      {% if page.handouts and page.handouts.size > 0 %}
+        <h3>Handouts</h3>
+        <ul>
+          {% for item in page.handouts %}
+            <li>
+              <a href="{% if item.url contains '://' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}">
+                {{ item.name }}
+              </a>
+              {% if item.description %}
+                — {{ item.description }}
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+      {% unless page.slides.size > 0 or page.handouts.size > 0 %}
+        <p>No slides or handouts are currently available.</p>
+      {% endunless %}
+
+    {% endif %}
+
+    <br/>
+
+    <h2>Additional Resources</h2>
+
+    {% if page.resources_status == "forthcoming" %}
+      <p>TBA</p>
+    {% elsif page.additional_resources and page.additional_resources.size > 0 %}
+      <ul>
+        {% for resource in page.additional_resources %}
+          <li>
+            <a href="{% if resource.url contains '://' %}{{ resource.url }}{% else %}{{ resource.url | relative_url }}{% endif %}">
+              {{ resource.name }}
+            </a>
+            {% if resource.description %}
+              — {{ resource.description }}
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>No additional resources are currently available.</p>
+    {% endif %}
+
+    {% if content != "" %}
+      <br/>
+      <div class="markdown-content">
+        {{ content }}
+      </div>
+    {% endif %}
+
+  </article>
+
+</div>

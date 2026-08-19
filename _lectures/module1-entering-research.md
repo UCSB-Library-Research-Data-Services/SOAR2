@@ -1,14 +1,38 @@
 ---
+layout: lectures_individual
+permalink: /sessions/module1/
+
 type: lecture
+session_type: "module"
+session_type_key: "module"
+module_number: 1
+
 date: 2026-09-21T9:00:00-7:00
-location: TBD
+location: Loma Pelona Center
 
 title: Entering Research
+description: Learn how research works and how you can become part of it. You'll explore the research lifecycle, develop a research question, discover strategies for finding scholarly literature, and learn how research teams support the research process. The module concludes with an introduction to open research and the principles that guide responsible research practices.
+learning_objectives:
+  - "**Define** research and describe the research lifecycle"
+  - "**Develop** and **evaluate** a research question"
+  - "**Identify** strategies for finding scholarly literature "
+  - "**Describe** the people, organizations, and institutions that make up the research ecosystem"
+  - "**Identify** pathways for getting involved in undergraduate research"
+  - "**Explain** how openness, transparency, and accessibility contribute to responsible research practices"
+
+lead_instructors:
+  - li-xiuqi
+  - cong-huyen-anne
+
+materials_status: forthcoming
+slides: []
+handouts: []
+
+resources_status: forthcoming
+additional_resources: []
 
 thumbnail: /_images/modules/module1-entering-research.png
 thumbnail_alt: Icon for the Entering Research module
-
-description: Learn how research actually works across disciplines and how you can get involved. You’ll explore the roles people play in research, how teams function, and strategies for finding mentors and opportunities. This module also introduces the idea of doing research in ways that are transparent and accessible to others.
 
 hide_from_announcments: true
 
@@ -17,18 +41,6 @@ home_schedule_order: 1
 home_day_label: "Day 1"
 home_card_description: "Explore the research lifecycle, refine a research question, and discover opportunities to get involved at UCSB"
 
-session_type: "module"
-session_type_key: "module"
-session_url: "/sessions/module1/"
-
-
-links: 
-    - url: /sessions/module1/
-      name: Module webpage
-#    - url: https://google.com
-#      name: Session Slides
-#    - url: /session_materials/from-template/linalg_lecture_1.pdf
-#      name: notes
 ---
 [//]: # Item in this section gets added to the Schedule page
 [//]: # #- [Readings 1](http://example.com)
