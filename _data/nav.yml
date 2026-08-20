@@ -11,8 +11,8 @@ items:
   name: Sessions
   icon_class: fas fa-book-open
   subitems:
-    - url_internal: /sessions/for-instructors/
-      name: "README for Instructors"
+#    - url_internal: /sessions/for-instructors/
+#      name: "README for Instructors"
     - url_internal: /sessions/
       name: "Program and Session Overview"
     - url_internal: /sessions/module1/
@@ -34,18 +34,18 @@ items:
     - url_internal: /sessions/possibilities/
       name: "Pasta & Possibilities"
 
-- url_internal: /resources/
-  name: Resources
-  icon_class: fas fa-folder-open
-  subitems:
-    - url_internal: /resources/research-programs/
-      name: Research Programs
-    - url_internal: /resources/grants-and-awards/
-      name: Grants & Awards
-    - url_internal: /resources/conferences/
-      name: Conferences
-    - url_internal: /resources/article-list/
-      name: Article list
+#- url_internal: /resources/
+#  name: Resources
+#  icon_class: fas fa-folder-open
+#  subitems:
+#    - url_internal: /resources/research-programs/
+#      name: Research Programs
+#    - url_internal: /resources/grants-and-awards/
+#      name: Grants & Awards
+#    - url_internal: /resources/conferences/
+#      name: Conferences
+#    - url_internal: /resources/article-list/
+#      name: Article list
 
 
 ## ABOUT page with program info -- written more for people who might consider reusing the curriculum
