@@ -17,8 +17,6 @@ learning_objectives:
   - "**Explain** how documentation supports transparency, reproducibility, and reuse"
   - "**Apply** documentation practices in different research contexts, including experimental records and data description"
   - "**Organize** research projects using effective folder structures and file-naming conventions"
-  - "**Recognize** how version control can be used to track changes to research files"
-
 
 lead_instructors:
   - curty-renata
