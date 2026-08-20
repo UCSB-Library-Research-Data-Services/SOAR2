@@ -15,7 +15,7 @@
 
 - name: Angelica Hernandez
   first_name: Angelica
-  title_phrase: Program Coordinator of
+  title_phrase: Program Coordinator for
   program: the McNair Scholars Program
   program_url: https://mcnair.ucsb.edu/
   headshot: /_images/collaborators/individual-angelica-contreras-hernandez.jpeg
@@ -36,3 +36,15 @@
     - CSEP programs for undergraduates (e.g., EUREKA!, MARC)
     - Career Pathways Grant
     - Art of Science competition
+
+- name: Rebecca Candy
+  first_name: Rebecca
+  title_phrase: Program Manager for
+  program: the UCSB IT Internship Program
+  program_url: https://it.ucsb.edu/internship
+  headshot: /_images/collaborators/individual-rebecca-candy.jpg
+  headshot_alt: Headshot of Rebecca Candy
+  topics:
+    - UCSB IT Internship Program
+    - IT Apprenticeship Program
+    - Research support
