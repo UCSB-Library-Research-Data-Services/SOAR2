@@ -45,13 +45,13 @@ SOAR² also recognizes that modern research is increasingly **collaborative and 
 
 By the end of SOAR², participants will be able to
 
-* Understand how research works — and how to get involved
-* Develop practical skills for working with data
-* Organize and document research for clarity and reuse
-* Explore what it means to do research openly and responsibly
-* Build a foundation for communicating research
-* Think critically about the opportunities and limitations of Gen AI use in research
-* Develop a plan for the next steps in their research journey
+* **Understand** how research works — and how to get involved
+* **Develop** practical skills for working with data
+* **Organize** and **document** research for clarity and reuse
+* **Explore** what it means to do research openly and responsibly
+* **Build** a foundation for communicating research
+* **Think** critically about the opportunities and limitations of Gen AI use in research
+* **Develop** a plan for the next steps in their research journey
 
 <br>
 
@@ -91,7 +91,7 @@ SOAR² is supported through the **Open Research Community Accelerator (ORCA) [Ca
 
 ## Reuse and Adaptation
 
-SOAR² was designed to be an adaptable curriculum that can be modified for different institutions, disciplines, and educational contexts.
+SOAR² is designed to be an adaptable curriculum that can be modified for different institutions, disciplines, and educational contexts.
 
 Whenever possible, instructional materials (including slides, handouts, and assessment instruments) will be shared openly to encourage reuse and adaptation. We hope these resources help other educators introduce students to research while fostering practices that support transparency, reproducibility, and open scholarship.
 
