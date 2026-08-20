@@ -12,8 +12,9 @@
         {% for session in schedule_cards %}
 
         {% assign session_link = session.session_url %}
-        {% if session.layout == "lectures_individual" %}
-        {% assign session_link = session.url %}
+        {% if session.layout == "lectures_individual_module"
+           or session.layout == "lectures_individual_session" %}
+           {% assign session_link = session.url %}
         {% endif %}
 
         <a

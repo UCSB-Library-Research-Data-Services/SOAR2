@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Keynote Lecture
-permalink: /sessions/keynote/
+permalink: /sessions/keynote-old/
+published: false
 ---
 
 <img

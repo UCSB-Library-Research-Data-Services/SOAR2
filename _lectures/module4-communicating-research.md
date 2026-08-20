@@ -1,5 +1,5 @@
 ---
-layout: lectures_individual
+layout: lectures_individual_module
 permalink: /sessions/module4/
 
 type: lecture

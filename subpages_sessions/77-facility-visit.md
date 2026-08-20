@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Research Facility Visits
-permalink: /sessions/facility/
+permalink: /sessions/facility-old/
+published: false
 ---
 
 UCSB is home to a wide range of world-class **research facilities** that support research across disciplines. During SOAR², you'll have the opportunity to step inside these spaces, meet the experts who run them, and see firsthand how they help researchers answer questions, make discoveries, and generate new knowledge.
