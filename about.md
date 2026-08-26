@@ -79,7 +79,7 @@ SOAR² is also made possible through the generous support of campus partners who
 
 <div class="about-highlight-box" markdown="1">
 
-**Add image with logos of campus partners**
+**Image with logos of campus partners to come**
 
 </div>
 
