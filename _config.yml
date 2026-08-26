@@ -4,8 +4,8 @@ course_description: 3-day intensive camp for UCSB undergraduate students on open
 
 course_semester: "Sep 21-23, 2026"
 
-url: "https://ucsb-library-research-data-services.github.io/"     # the base hostname & protocol for your site
-baseurl: "/SOAR2"                                                 # the subpath of your site, e.g. /blog/
+url: "https://xiuqili-xl.github.io"            # the base hostname & protocol for your site
+baseurl: "/SOAR2-TESTING"                      # the subpath of your site, e.g. /blog/
 
 schoolname: "UCSB Library"
 schoolurl: "https://www.library.ucsb.edu/"
@@ -14,7 +14,7 @@ schoolurl: "https://www.library.ucsb.edu/"
 # Repo information (for repo_source, use the format "username/repo")
 repo_copyright: Copyright (c) 2017 Steven V. Miller; Copyright (c) 2026 Regents of the University of California
 repo_license: MIT License
-repo_source: ucsb-library-research-data-services/SOAR2
+repo_source: xiuqili-xl/SOAR2-TESTING           # ucsb-library-research-data-services/SOAR2
 
 
 program_info: |
