@@ -22,7 +22,7 @@ program_info: |
 
 
 # Set your Google Analytics Measurement ID (set up yours at http://www.google.com/analytics/)
-google_analytics: G-B1W632CC58
+# google_analytics: G-B1W632CC58
 
 ### Do not change the followings unless you know what you are doing ###
 
