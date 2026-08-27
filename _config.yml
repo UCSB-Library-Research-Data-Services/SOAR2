@@ -21,8 +21,8 @@ program_info: |
     SOAR² is developed in partnership by Research Data Services (UCSB Library) and the Office of Undergraduate Research and Creative Activities (URCA), with support from the Open Research Community Accelerator (ORCA).
 
 
-# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
-# google_analytics: UA-XXXXXXXX-X
+# Set your Google Analytics Measurement ID (set up yours at http://www.google.com/analytics/)
+google_analytics: G-B1W632CC58
 
 ### Do not change the followings unless you know what you are doing ###
 
