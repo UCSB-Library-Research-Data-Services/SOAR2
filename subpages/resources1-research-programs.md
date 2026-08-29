@@ -4,7 +4,7 @@ title: Research Programs
 permalink: /resources/research-programs/
 ---
 
-<br/>
+<br>
 
 Research experience can take many forms, from course-based research experience, to campus programs, to intensive summer internships at national laboratories. **Research-focused programs** often provide hands-on training, professional development, mentorship, and exposure to potential career paths in research. This page lists some research-focused programs at UCSB and elsewhere (please note, _**this is by no means an exhaustive list**_).
 
@@ -13,7 +13,7 @@ Many of these programs require an application and have specific eligibility requ
 _**Disclaimer:** Program information on this page is current as of Aug 2026 and is subject to change. Please consult individual program websites for the most up-to-date information._
 
 
-<br/>
+<br>
 
 
 
@@ -31,13 +31,13 @@ UCSB offers a variety of research-focused programs that provide mentorship, trai
 {: .opportunities-table}
 
 
-<br/>
-<br/>
+<br>
+<br>
 
 
 ## External Programs
 
-In addition to opportunities at UCSB, many government agencies, professional organizations, and universities offer research programs for undergraduate students. These experiences often take place during the summer, though some programs also operate throughout the the academic year. Application deadlines for summer programs frequently occur between late fall and early winter. Thus, we encourage students to begin exploring opportunities well in advance. Many of these programs also provide housing, travel support, and stipends.
+In addition to opportunities at UCSB, many government agencies, professional organizations, and universities offer research programs for undergraduate students. These experiences often take place during the summer, though some programs also operate throughout the the academic year. Application deadlines for summer programs frequently occur between late fall and early winter. Thus, if you are interested in pursuing one of these opportunities, we encourage you to begin exploring opportunities well in advance. Many of these programs also provide housing, travel support, and stipends.
 
 
 | Opportunity | Description |
@@ -51,13 +51,13 @@ In addition to opportunities at UCSB, many government agencies, professional org
 {: .opportunities-table}
 
 
-<br/>
-<br/>
+<br>
+<br>
 
 
 ## Post-baccalaureate (post-bac) Programs
 
-Post-baccalaureate, or post-bac, programs provide recent graduates with opportunities to gain additional research experience and professional development before pursuing graduate studies or other research careers. These programs typically last one to two years and are increasingly used as a bridge between undergraduate education and advanced training. Students may consider pursuing post-bac opportunities to strengthen research skills, explore career paths, build mentoring relationships, or become more competitive applicants for graduate and professional programs.
+Post-baccalaureate, or post-bac, programs provide recent graduates with opportunities to gain additional research experience and professional development before pursuing graduate studies or other research careers. These programs typically last one to two years and are increasingly used as a bridge between undergraduate education and advanced training. Pursuing post-bac opportunities could help strengthening research skills, exploring different career paths, building mentoring relationships, or becoming more competitive applicants for graduate and professional programs.
 
 
 | Opportunity | Description |
