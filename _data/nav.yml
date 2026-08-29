@@ -44,8 +44,8 @@ items:
       name: Grants & Awards
     - url_internal: /resources/conferences/
       name: Conferences
-    - url_internal: /resources/article-list/
-      name: Article list
+#    - url_internal: /resources/article-list/         # currently published == false
+#      name: Article list
 
 
 ## ABOUT page with program info -- written more for people who might consider reusing the curriculum
