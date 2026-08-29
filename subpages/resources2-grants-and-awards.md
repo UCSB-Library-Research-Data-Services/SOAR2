@@ -45,7 +45,7 @@ Many federal agencies and national organizations offer scholarships, grants, and
 | [**Barry Goldwater Scholarship**](https://goldwaterscholarship.gov/  ) | The Barry Goldwater Scholarship supports sophomores and juniors pursuing research careers in the natural sciences, mathematics, and engineering. It provides financial support for undergraduate study while recognizing students with strong potential to be the next generation of research leaders. |
 | [**Council on Undergraduate Research (CUR)**](https://www.cur.org/membership-community/honors-awards/student-awards/) | Offers numerous awards to recognize and support undergraduate research. The awards cover a wide range of fields of study, including arts and humanities, STEM, and social sciences. |
 | [**NIH Undergraduate Scholarship Program (UGSP)**](https://www.training.nih.gov/research-training/pb/ugsp/) | A financial needs-based scholarship for students committed to biomedical, behavioral, and social science research. The program provides support for tuition, educational, and reasonable living expenses. For each year of scholarship support, scholars commit to a 10-week summer internship at NIH and 1 year of full-time work at NIH post-graduation. |
-| [**DOD SMART Scholarship**](https://www.smartscholarship.org/smart/en ) | The Department of Defense (DOD) Science, Mathematics, and Research for Transformation (SMART) Scholarship-for-service program provides funding for undergraduate and graduate students pursuing degrees in eligible STEM disciplines. In exchange for educational funding, SMART Scholars commit to working as civilian employees at a sponsoring DOD facility after completing their degree. | 
+| [**DOD SMART Scholarship**](https://www.smartscholarship.org/smart/en ) | The Department of Defense (DOD) Science, Mathematics, and Research for Transformation (SMART) Scholarship-for-service program provides funding for students pursuing degrees in eligible STEM disciplines. In exchange for educational funding, SMART Scholars commit to working as civilian employees at a sponsoring DOD facility after completing their degree. | 
 {: .opportunities-table}
 
 <br>
@@ -59,15 +59,15 @@ _**Thinking of applying for a national scholarship?** Some awards require instit
 
 ## Professional & Disciplinary Organizations
 
-Many professional societies offer grants, scholarships, and travel awards to help undergraduate students conduct research, present at conferences, or participate in professional development activities. These organizations may bring together researchers within a particular discipline, area of interest, or shared community or identity. Exploring organizations that are relevant to you can uncover funding opportunities that may not be widely advertised elsewhere.
+Professional societies or organizations bring together researchers within a particular discipline, area of interest, or shared community or identity. Many of these organizations offer grants, scholarships, and travel awards to help support undergraduate students conducting research, presenting at conferences, or participatin  in professional development activities.  Exploring organizations that are relevant to you can uncover funding opportunities that may not be widely advertised elsewhere.
 
 | Opportunity | Description |
 |-------------|-------------|
-| [**American Society of Plant Biologists Travel Awards**](https://aspb.org/awards-funding/grants-funding/) | The American Society of Plant Biologists offers travel awards to help students and other early-career researchers attend its annual Plant Biology meeting.  |
-| [**Psi Chi Undergraduate Research Grants**](https://www.psichi.org/page/undergradresinfo) | Psi Chi, the International Honor Society in Psychology, offers grants to undergraduate members conducting research in psychology and related fields. Awards can help cover the costs of conducting a student research project. Psi Chi also offers separate [travel grants and scholarships](https://www.psichi.org/page/awards). |
-| [**Sigma Xi Grants In Aid of Research (GIAR)**](https://www.sigmaxi.org/programs/grants-in-aid-of-research ) | Sigma Xi provides grants to undergraduate and graduate students across different areas of science and engineering to support research expenses. Both members and non-members are eligible to apply. |
+| [**American Society of Plant Biologists Travel Awards**](https://aspb.org/awards-funding/grants-funding/) | The American Society of Plant Biologists offers travel awards to help students and other early-career researchers attend its annual Plant Biology meeting. It also has [a Summer Undergraduate Research Fellowship](https://surf.aspb.org/).  |
+| [**Psi Chi Undergraduate Research Grants**](https://www.psichi.org/page/undergradresinfo) | Psi Chi, the International Honor Society in Psychology, offers grants to undergraduate members conducting research in psychology and related fields. Awards can be used to cover the direct costs of a research project. Psi Chi also offers separate [travel grants and scholarships](https://www.psichi.org/page/awards). |
+| [**Sigma Xi Grants In Aid of Research (GIAR)**](https://www.sigmaxi.org/programs/grants-in-aid-of-research ) | Sigma Xi provides grants to students across different areas of science and engineering to support research expenses. Both members and non-members are eligible to apply. |
 | [**Society for American Archaeology Student Paper Award**](https://saa.org/SAAMember/Career-and-Practice/Award/Student-Paper-Award.aspx) | The Society for American Archaeology recognizes an outstanding student conference paper based on original research presented at its annual meeting. |
-| [**The Society of Women Engineers (SWE) Scholarship**](https://swe.org/apply-for-a-swe-scholarship/ ) | The Society of Women Engineers (SWE) offers scholarships to undergraduate and graduate students pursuing degrees in engineering and technology. | 
+| [**The Society of Women Engineers (SWE) Scholarship**](https://swe.org/apply-for-a-swe-scholarship/ ) | The Society of Women Engineers (SWE) offers scholarships to students pursuing degrees in engineering and technology. | 
 {: .opportunities-table}
 
 _**These are just a few examples.** Explore professional and disciplinary organizations in your field, and ask your mentors about grants, scholarships, travel funding, and awards offered by organizations they belong to._
@@ -77,8 +77,6 @@ _**These are just a few examples.** Explore professional and disciplinary organi
 
 
 ## Funding Opportunities for Graduate Studies
-
-_**ADD INTRO BLURB**_
 
 Thinking about graduate school? Some competitive fellowships and scholarships support students as they transition from undergraduate to graduate study. While many are intended for seniors or recent graduates preparing to apply to graduate school, others can be pursued during graduate training. Learning about these opportunities _**early**_ can help you understand what is available and prepare for future applications.
 
