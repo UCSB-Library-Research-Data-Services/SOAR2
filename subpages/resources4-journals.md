@@ -14,7 +14,7 @@ permalink: /resources/journals/
 
 **Research journals** are one of the primary ways that researchers communicate their findings, ideas, and scholarly work with others in their fields. Publishing your work can help you develop your writing skills, contribute to the scholarly conversation, and make your work available for others to discover, build upon, and cite.
 
-As an undergraduate researcher, there are different pathways to publication. Some journals are specifically dedicated to publishing undergraduate research, while disciplinary and professional journals publish work by researchers at all career stages, including undergraduate students. The journals highlighted below are a starting point for exploring publication opportunities.
+As an undergraduate researcher, there are _**different pathways to publication**_. Some journals are specifically dedicated to publishing undergraduate research, while disciplinary and professional journals publish work by researchers at all career stages, including undergraduate students. The journals highlighted below are a starting point for exploring publication opportunities.
 
 **Interested in publishing your research?** Remember to talk with your research mentor about whether your work is ready for publication and which journals may be a good fit. Your mentor can also help you navigate authorship, manuscript preparation, journal selection, submission requirements, and the peer-review process.
 
@@ -55,7 +55,7 @@ Journals dedicated to publishing undergraduate research offer opportunities to p
 
 ## Finding Journals in Your Field
 
-The journals highlighted above focus specifically on undergraduate research, but they are not your only pathway to publication. Undergraduate researchers can also publish in **disciplinary journals** alongside graduate students, faculty, and other researchers. If you are considering publication, **talk with your research mentor** about journals that may be appropriate for your work.
+The journals highlighted above focus specifically on undergraduate research, but they are not your only pathway to publication. Undergraduate researchers can also publish in **disciplinary and professional journals** alongside graduate students, faculty, and other researchers. If you are considering publication, **talk with your research mentor** about journals that may be appropriate for your work.
 
 **A good place to start is with the literature you already know:** Which journals frequently publish research related to your topic? Where are the papers you cite published? You can also explore journals published by professional and disciplinary organizations in your field.
 

@@ -12,9 +12,9 @@ permalink: /resources/grants-and-awards/
     style="float: right; width: 45%; max-width: 600px; min-width: 380px; margin: 0 1.5rem 0rem 1.5rem;"
 />
 
-**Research grants and awards** can help you pursue research projects, present your work at conferences, and explore future career paths. Many of these grants and awards are highly competitive, but they are also recognized as prestigious achievements that demonstrate academic excellence, research potential, and leadership. Receiving one of these awards can strengthen applications for graduate programs, fellowships, internships, and other professional opportunities. 
+**Research grants and awards** can help you pursue research projects, present your work at conferences, and explore future career paths. Many of these grants and awards are _**highly competitive**_, but they are also recognized as _**prestigious achievements**_ that demonstrate academic excellence, research potential, and leadership. Receiving one of these awards can strengthen applications for graduate programs, fellowships, internships, and other professional opportunities. 
 
-This page lists funding opportunities and research-related awards at UCSB and beyond (please note that _**this is by no means exhaustive**_). Some opportunities recognize outstanding achievements, while others provide financial support for research expenses, conference travel, and professional development. Eligibility requirements, application timelines, and funding amounts vary widely, so students are encouraged to explore opportunities early and plan accordingly.
+This page lists funding opportunities and research-related awards at UCSB and beyond. Some opportunities recognize outstanding achievements, while others provide financial support for research expenses, conference travel, and professional development. Eligibility requirements, application timelines, and funding amounts vary widely, so students are encouraged to explore opportunities early and plan accordingly.
 
 **⚠️ Disclaimer:** _Information about fuding opportunities on this page is **current as of Aug 2026** and is subject to change. Please consult individual program websites for the most up-to-date information. Lists on this page are **not exhaustive**. Opportunities within each section are **listed alphabetically**; their inclusion or order does not indicate endorsement or recommendations._
 
@@ -93,7 +93,7 @@ Thinking about graduate school? Some competitive fellowships and scholarships su
 |-------------|-------------|
 | [**The Churchill Scholarship**](https://www.churchillscholarship.org/the-scholarship ) | The Churchill Scholarship provides full funding for STEM students to pursue a one-year Master’s degree at Churchill College, University of Cambridge. Scholars are selected on the basis of exceptional academic and research achievement. |
 | [**The Fulbright US Student Program**](https://us.fulbrightonline.org/applicants/types-of-awards/study-research ) | The Fulbright Study/Research Awards support graduating seniors, recent graduates, and graduate students pursuing independent research or graduate study abroad. Applicants develop their own projects and typically work with an affiliation in the host country. |
-| [**NSF Graduate Research Fellowship Program (GRFP)**](https://www.nsfgrfp.org/ ) | The NSF GRFP provides 3 years of support for graduate students in science and engineering to pursue their own research ideas. NSF GRFP is the oldest continuous graduate fellowship program of its kind. |
+| [**NSF Graduate Research Fellowship Program (GRFP)**](https://www.nsfgrfp.org/ ) | The NSF GRFP provides 3 years of support for graduate students in science and engineering to pursue their own research ideas. It is the oldest continuous graduate fellowship program of its kind. Graduating seniors, recent graduates, and first-year graduate students are eligible. |
 {: .opportunities-table}
 
 <br>

@@ -21,7 +21,7 @@ The following resource pages are designed to help you explore some of these oppo
     />
 </a>
 
-Research programs can provide structured opportunities to gain research experience, develop new skills, and work with mentors. Many programs also offer professional development, funding, or opportunities to connect with a community of fellow researchers. [**Explore programs**]({{ "/resources/research-programs/" | relative_url }}) for to undergraduate researchers at UCSB and beyond.
+Research programs can provide structured opportunities to gain research experience, develop new skills, and work with mentors. Many programs also offer professional development, funding, or opportunities to connect with a community of fellow researchers. [**Explore research programs**]({{ "/resources/research-programs/" | relative_url }}) for to undergraduate researchers at UCSB and beyond.
 
 <br>
 
@@ -35,7 +35,7 @@ Research programs can provide structured opportunities to gain research experien
     />
 </a>
 
-Funding isn’t just for faculty and graduate students. As undergraduate researchers, you are eligible for grants that support research project, conference travel, and other research activities, as well as awards that recognize your research and accomplishments. [**Explore funding and award opportunities**]({{ "/resources/grants-and-awards/" | relative_url }}) available at UCSB and beyond.
+Funding isn’t just for faculty and graduate students. As undergraduate researchers, you are also eligible for grants that support research project, conference travel, and other research activities, as well as awards that recognize your work and accomplishments. [**Explore funding and award opportunities**]({{ "/resources/grants-and-awards/" | relative_url }}) available at UCSB and beyond.
 
 <br>
 
@@ -50,7 +50,7 @@ Funding isn’t just for faculty and graduate students. As undergraduate researc
     />
 </a>
 
-Conferences provide opportunities to share your work, learn about research happenings in your field, and connect with a broader research community. You can participate by attending a conference or presenting your work as a poster or talk. [**Learn more about conferences**]({{ "/resources/conferences/" | relative_url }}) held locally and nationally.
+Conferences provide opportunities to share your work, learn about research happenings in your field, and connect with a broader  community. You can participate by attending a conference or presenting your work as a poster or talk. [**Learn more about conferences**]({{ "/resources/conferences/" | relative_url }}) held locally and nationally.
 
 <br>
 
@@ -65,13 +65,13 @@ Conferences provide opportunities to share your work, learn about research happe
     />
 </a>
 
-Publishing in scholarly journals is one way researcher share their findings and contribute to an ongoing scholarly conversation. You may have opportunities to publish in undergraduate research journals as well as disciplinary journals. [**Explore different publication venues**]({{ "/resources/journals/" | relative_url }}) for your research.
+Publishing in scholarly journals is one way researcher share their findings and contribute to an ongoing scholarly conversation. You can choose to publish your work in a undergraduate research journal or a disciplinary journals. [**Explore possible journal publication venues**]({{ "/resources/journals/" | relative_url }}) for your research.
 
 <br>
 
 ## Keep Exploring
 
-Examples highlighted in these resource pages are a starting point, not an exhaustive list. Opportunities vary across disciplines and change over time. Talk with your research mentor, instructors, department or program, and other researchers in your field about opportunities they recommend — and keep an eye out for possibilities you may not have known to look for.
+Treat examples highlighted on these resource pages as a starting point, not an exhaustive list. Opportunities vary across disciplines and change over time. Talk with your research mentor, instructors, department or program, and other researchers in your field about opportunities they recommend — and keep an eye out for possibilities you may not have known to look for.
 
 
 <br>

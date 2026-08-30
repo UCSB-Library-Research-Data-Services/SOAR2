@@ -25,7 +25,7 @@ Many of these programs require an application and have specific eligibility requ
 
 ## UCSB Programs
 
-UCSB offers a variety of research-focused programs that provide mentorship, training, and professional development opportunities for students. This section highlights programs whose representatives are expected to join the SOAR² Pasta & Possibilities session, pending availability. For a more comprehensive list of research opportunities at UCSB, please visit the [UCSB Undergraduate Research website](https://undergrad.research.ucsb.edu/research-opportunities).
+UCSB offers a variety of research-focused programs that provide mentorship, training, and professional development opportunities for students. This section highlights programs whose representatives may join the SOAR² Pasta & Possibilities session, pending availability. For a more comprehensive list of research opportunities at UCSB, please visit the [UCSB Undergraduate Research website](https://undergrad.research.ucsb.edu/research-opportunities).
 
 | Opportunity | Description |
 |-------------|-------------|
@@ -43,7 +43,7 @@ UCSB offers a variety of research-focused programs that provide mentorship, trai
 
 ## External Programs
 
-In addition to opportunities at UCSB, many government agencies, professional organizations, and universities offer research programs for undergraduate students. These experiences often take place during the summer, though some programs also operate throughout the the academic year. Application deadlines for summer programs frequently occur between late fall and early winter. Thus, if you are interested in pursuing one of these opportunities, we encourage you to begin exploring opportunities well in advance. Many of these programs also provide housing, travel support, and stipends.
+In addition to opportunities at UCSB, many government agencies, professional organizations, and universities offer research programs for undergraduate students. These experiences often take place during the summer, though some programs also operate throughout the the academic year. Application deadlines for summer programs frequently occur between late Fall and early Winter. Thus, if you are interested in pursuing one of these opportunities, we encourage you to begin exploring opportunities well in advance. Many of these programs also provide housing, travel support, and stipends.
 
 
 | Opportunity | Description |
