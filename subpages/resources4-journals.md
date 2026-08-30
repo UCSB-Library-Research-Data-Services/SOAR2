@@ -6,6 +6,12 @@ permalink: /resources/journals/
 
 <br>
 
+<img
+    src="{{ '/_images/resources/journals-summary.png' | relative_url }}"
+    alt="image summarizing intro paragraph for journals"
+    style="float: right; width: 40%; max-width: 600px; min-width: 400px; margin: 0 1.5rem 0rem 1.5rem;"
+/>
+
 **Research journals** are one of the primary ways that researchers communicate their findings, ideas, and scholarly work with others in their fields. Publishing your work can help you develop your writing skills, contribute to the scholarly conversation, and make your work available for others to discover, build upon, and cite.
 
 As an undergraduate researcher, there are different pathways to publication. Some journals are specifically dedicated to publishing undergraduate research, while disciplinary and professional journals publish work by researchers at all career stages, including undergraduate students. The journals highlighted below are a starting point for exploring publication opportunities.

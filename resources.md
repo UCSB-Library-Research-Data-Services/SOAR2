@@ -15,7 +15,7 @@ The following resource pages are designed to help you explore some of these oppo
 
 <a href="{{ '/resources/research-programs/' | relative_url }}">
     <img
-    src="{{ '/_images/resources/programs.png' | relative_url }}"
+    src="{{ '/_images/resources/programs-icon.png' | relative_url }}"
     alt="icon representing research programs"
     style="float: right; width: 10%; max-width: 180px; min-width: 100px; margin: 0 1.5rem 0rem 1.5rem;"
     />
@@ -29,7 +29,7 @@ Research programs can provide structured opportunities to gain research experien
 
 <a href="{{ '/resources/grants-and-awards/' | relative_url }}">
     <img
-    src="{{ '/_images/resources/grants.png' | relative_url }}"
+    src="{{ '/_images/resources/grants-icon.png' | relative_url }}"
     alt="icon representing grants and awards"
     style="float: right; width: 10%; max-width: 180px; min-width: 100px; margin: 0 1.5rem 0rem 1.5rem;"
     />
@@ -44,7 +44,7 @@ Funding isn’t just for faculty and graduate students. As undergraduate researc
 
 <a href="{{ '/resources/conferences/' | relative_url }}">
     <img
-    src="{{ '/_images/resources/conferences.png' | relative_url }}"
+    src="{{ '/_images/resources/conferences-icon.png' | relative_url }}"
     alt="icon representing conferences"
     style="float: right; width: 10%; max-width: 180px; min-width: 100px; margin: 0 1.5rem 0rem 1.5rem;"
     />
@@ -59,7 +59,7 @@ Conferences provide opportunities to share your work, learn about research happe
 
 <a href="{{ '/resources/journals/' | relative_url }}">
     <img
-    src="{{ '/_images/resources/journals.png' | relative_url }}"
+    src="{{ '/_images/resources/journals-icon.png' | relative_url }}"
     alt="icon representing journals"
     style="float: right; width: 10%; max-width: 180px; min-width: 100px; margin: 0 1.5rem 0rem 1.5rem;"
     />
