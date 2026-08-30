@@ -12,7 +12,7 @@ As an undergraduate researcher, there are different pathways to publication. Som
 
 **Interested in publishing your research?** Remember to talk with your research mentor about whether your work is ready for publication and which journals may be a good fit. Your mentor can also help you navigate authorship, manuscript preparation, journal selection, submission requirements, and the peer-review process.
 
-**Disclaimer:** _Journal information on this page is **current as of Aug 2026** and is subject to change. Please consult individual journal websites for the most up-to-date information. Lists on this page are **not exhaustive**. Journals within each section are **listed alphabetically**; their inclusion or order does not indicate endorsement or recommendations._
+**⚠️ Disclaimer:** _Journal information on this page is **current as of Aug 2026** and is subject to change. Please consult individual journal websites for the most up-to-date information. Lists on this page are **not exhaustive**. Journals within each section are **listed alphabetically**; their inclusion or order does not indicate endorsement or recommendations._
 
 <br>
 
@@ -23,8 +23,7 @@ UCSB offers opportunities for undergraduate students to gain experience with sch
 | Opportunity | Description |
 |-------------|-------------|
 | [**UCSB Undergraduate Journal of History (The UGH Journal)**](https://undergradjournal.history.ucsb.edu/) | Biannual scholarly journal dedicated to showcasing original undergraduate research and other scholarly works of history. The journal is run by undergraduate editors, with articles peer-reviewed by faculty and graduate students, and published open access on [eScholarship](https://escholarship.org/uc/ucsb_journalhist). |
-| [**URCA Journal (URCAJ)**](https://urca.ucsb.edu/urca-press/urca-journal
-) | Multidisciplinary publication showcasing original research, literature reviews, and other scholarly work by UCSB undergraduate students. Submissions are peer-reviewed by the editorial board of URCAJ, which is composed of UCSB undergraduate researchers. Accepted papers are published open access on [eScholarship](https://escholarship.org/uc/urcaj). | 
+| [**URCA Journal (URCAJ)**](https://urca.ucsb.edu/urca-press/urca-journal) | Multidisciplinary publication showcasing original research, literature reviews, and other scholarly work by UCSB undergraduate students. Submissions are peer-reviewed by the editorial board of URCAJ, which is composed of UCSB undergraduate researchers. Accepted papers are published open access on [eScholarship](https://escholarship.org/uc/urcaj). | 
 {: .opportunities-table}
 
 
@@ -34,7 +33,7 @@ UCSB offers opportunities for undergraduate students to gain experience with sch
 
 ## (Inter)national Undergraduate Research Journals
 
-Journals dedicated to publishing undergraduate research offer opportunities to publish your work and gain experience with the scholarly publishing process. The examples below are some multidisciplinary journals that accept submissions from undergraduate researchers across institutions and fields of study. They are only a starting point;[many additional undergraduate journals](https://en.wikipedia.org/wiki/Undergraduate_research_journal#Examples) focus on particular disciplines, topics, or types of scholarship.
+Journals dedicated to publishing undergraduate research offer opportunities to publish your work and gain experience with the scholarly publishing process. The examples below are some multidisciplinary journals that accept submissions from undergraduate researchers across institutions and fields of study. They are only a starting point; [many additional undergraduate journals](https://en.wikipedia.org/wiki/Undergraduate_research_journal#Examples) focus on particular disciplines, topics, or types of scholarship.
 
 | Journal | Peer Review? | DOI? | Open Access? | Publishing Fee |
 |---------|--------------|------|--------------|----------------|
@@ -56,7 +55,7 @@ The journals highlighted above focus specifically on undergraduate research, but
 
 **When considering a journal**, look at its scope and the types of articles it publishes, who its intended audience is, how submissions are peer-reviewed, whether articles are openly accessible, and whether there are publication fees. Reading several recently published articles can also help you determine whether your research is a good fit.
 
-**Evaluate before you submit.** Not every journal that invites you to submit your work is a reputable scholarly publication. Look for clear information about the journal's editorial board, publication policies, and fees, and be cautious of unsolicited invitations that make unrealistic promises about rapid publication. Your research mentor and UCSB librarians can help you identify and evaluate potential publication venues.
+**Evaluate before you submit.** Not every journal that invites you to submit your work is a reputable scholarly publication. Look for clear information about the journal's editorial board, publication policies, and fees, and **be cautious of unsolicited invitations** that make unrealistic promises about rapid publication. Your research mentor and UCSB librarians can help you identify and evaluate potential publication venues.
 
 
 <br>
