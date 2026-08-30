@@ -10,7 +10,7 @@ permalink: /resources/grants-and-awards/
 
 This page lists funding opportunities and research-related awards at UCSB and beyond (please note that _**this is by no means exhaustive**_). Some opportunities recognize outstanding achievements, while others provide financial support for research expenses, conference travel, and professional development. Eligibility requirements, application timelines, and funding amounts vary widely, so students are encouraged to explore opportunities early and plan accordingly.
 
-**Disclaimer:** _Program information on this page is **current as of Aug 2026** and is subject to change. Please consult individual program websites for the most up-to-date information. Lists on this page are **not exhaustive**. Opportunities within each section are **listed alphabetically**; their inclusion or order does not indicate endorsement or recommendations._
+**Disclaimer:** _Information about fuding opportunities on this page is **current as of Aug 2026** and is subject to change. Please consult individual program websites for the most up-to-date information. Lists on this page are **not exhaustive**. Opportunities within each section are **listed alphabetically**; their inclusion or order does not indicate endorsement or recommendations._
 
 
 <br>

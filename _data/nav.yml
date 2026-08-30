@@ -44,6 +44,8 @@ items:
       name: Grants & Awards
     - url_internal: /resources/conferences/
       name: Conferences
+    - url_internal: /resources/journals/
+      name: Journals
 #    - url_internal: /resources/article-list/         # currently published == false
 #      name: Article list
 

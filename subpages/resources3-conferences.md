@@ -11,7 +11,7 @@ Participating in a conference can help you develop your research communication s
 **Interested in presenting your research?** Remember to talk with your research mentor about whether your work is ready to share and which conferences may be a good fit. Presenters typically submit an **abstract** describing their work for review months before being accepted to present at a conference. Your mentor can also help you navigate abstracts, authorship, submission requirements, and funding for conference travel.
 
 
-**Disclaimer:** _Program information on this page is **current as of Aug 2026** and is subject to change. Please consult individual program websites for the most up-to-date information. Lists on this page are **not exhaustive**. Opportunities within each section are **listed alphabetically**; their inclusion or order does not indicate endorsement or recommendations._
+**Disclaimer:** _Conference information on this page is **current as of Aug 2026** and is subject to change. Please consult individual conference websites for the most up-to-date information. Lists on this page are **not exhaustive**. Opportunities within each section are **listed alphabetically**; their inclusion or order does not indicate endorsement or recommendations._
 
 <br>
 
