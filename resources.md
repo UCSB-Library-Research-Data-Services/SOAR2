@@ -13,11 +13,23 @@ The following resource pages are designed to help you explore some of these oppo
 
 ## Research Programs
 
+<img
+  src="{{ '/_images/resources/programs.png' | relative_url }}"
+  alt="icon representing research programs"
+  style="float: right; width: 30%; max-width: 300px; min-width: 180px; margin: 0 0 1rem 1.5rem;"
+/>
+
 Research programs can provide structured opportunities to gain research experience, develop new skills, and work with mentors. [**Explore programs**]({{ "/resources/research-programs/" | relative_url }}) for to undergraduate researchers at UCSB and beyond.
 
 <br>
 
 ## Grants & Awards
+
+<img
+  src="{{ '/_images/resources/grants.png' | relative_url }}"
+  alt="icon representing grants and awards"
+  style="float: right; width: 30%; max-width: 300px; min-width: 180px; margin: 0 0 1rem 1.5rem;"
+/>
 
 Funding isn’t just for faculty and graduate students. As undergraduate researchers, you are eligible for grants that support research project, conference travel, and other research activities, as well as awards that recognize your research and accomplishments. [**Explore funding and award opportunities**]({{ "/resources/grants-and-awards/" | relative_url }}) available at UCSB and beyond.
 
@@ -25,11 +37,23 @@ Funding isn’t just for faculty and graduate students. As undergraduate researc
 
 ## Conferences
 
+<img
+  src="{{ '/_images/resources/conferences.png' | relative_url }}"
+  alt="icon representing conferences"
+  style="float: right; width: 30%; max-width: 300px; min-width: 180px; margin: 0 0 1rem 1.5rem;"
+/>
+
 Conferences provide opportunities to share your work, learn about research happenings in your field, and connect with a broader research community. You can participate by attending a conference or presenting your work as a poster or talk. [**Learn more about conferences**]({{ "/resources/conferences/" | relative_url }}) held locally and nationally.
 
 <br>
 
 ## Journals
+
+<img
+  src="{{ '/_images/resources/journals.png' | relative_url }}"
+  alt="icon representing journals"
+  style="float: right; width: 30%; max-width: 300px; min-width: 180px; margin: 0 0 1rem 1.5rem;"
+/>
 
 Publishing in scholarly journals is one way researcher share their findings and contribute to an ongoing scholarly conversation. You may have opportunities to publish in undergraduate research journals as well as disciplinary journals. [**Explore different publication venues**]({{ "/resources/journals/" | relative_url }}) for your research.
 
