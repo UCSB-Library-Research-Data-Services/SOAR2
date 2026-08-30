@@ -6,6 +6,12 @@ permalink: /resources/research-programs/
 
 <br>
 
+<img
+    src="{{ '/_images/resources/programs-summary.png' | relative_url }}"
+    alt="image highlighting key points from the intro paragraph"
+    style="float: right; width: 45%; max-width: 600px; min-width: 380px; margin: 0 1.5rem 0rem 1.5rem;"
+/>
+
 Research experience can take many forms, from course-based research experience, to campus programs, to intensive summer internships at national laboratories. **Research-focused programs** often provide hands-on training, professional development, mentorship, and exposure to potential career paths in research. This page lists some research-focused programs at UCSB and elsewhere.
 
 Many of these programs require an application and have specific eligibility requirements based on factors such as academic level, field of study, career interests, and/or research goals. Application timelines also vary, with some opportunities accepting applications nearly a year in advance. We encourage students to explore programs early and plan accordingly.

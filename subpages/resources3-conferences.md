@@ -4,6 +4,14 @@ title: Conferences
 permalink: /resources/conferences/
 ---
 
+<br>
+
+<img
+    src="{{ '/_images/resources/conferences-summary.png' | relative_url }}"
+    alt="image highlighting key points from the intro paragraph"
+    style="float: right; width: 45%; max-width: 600px; min-width: 380px; margin: 0 1.5rem 0rem 1.5rem;"
+/>
+
 **Research conferences** bring researchers together to share their work, exchange ideas, and learn from new developments in their field. As an undergraduate researcher, you may have opportunities to attend conferences, present your research through a poster or talk, and connect with researchers and other students who share your interests.
 
 Participating in a conference can help you develop your research communication skills, receive feedback on your work, learn about other projects, and build your professional network. Conferences range from campus and regional events designed specifically for undergraduate researchers to large national and disciplinary meetings attended by researchers at all career stages. The opportunities below are a starting point for exploring where you might share your work and become part of a broader research community..

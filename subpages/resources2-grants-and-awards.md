@@ -6,6 +6,12 @@ permalink: /resources/grants-and-awards/
 
 <br>
 
+<img
+    src="{{ '/_images/resources/grants-summary.png' | relative_url }}"
+    alt="image highlighting key points from the intro paragraph"
+    style="float: right; width: 45%; max-width: 600px; min-width: 380px; margin: 0 1.5rem 0rem 1.5rem;"
+/>
+
 **Research grants and awards** can help you pursue research projects, present your work at conferences, and explore future career paths. Many of these grants and awards are highly competitive, but they are also recognized as prestigious achievements that demonstrate academic excellence, research potential, and leadership. Receiving one of these awards can strengthen applications for graduate programs, fellowships, internships, and other professional opportunities. 
 
 This page lists funding opportunities and research-related awards at UCSB and beyond (please note that _**this is by no means exhaustive**_). Some opportunities recognize outstanding achievements, while others provide financial support for research expenses, conference travel, and professional development. Eligibility requirements, application timelines, and funding amounts vary widely, so students are encouraged to explore opportunities early and plan accordingly.

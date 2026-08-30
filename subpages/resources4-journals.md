@@ -8,8 +8,8 @@ permalink: /resources/journals/
 
 <img
     src="{{ '/_images/resources/journals-summary.png' | relative_url }}"
-    alt="image summarizing intro paragraph for journals"
-    style="float: right; width: 40%; max-width: 600px; min-width: 400px; margin: 0 1.5rem 0rem 1.5rem;"
+    alt="image highlighting key points from the intro paragraph"
+    style="float: right; width: 45%; max-width: 600px; min-width: 380px; margin: 0 1.5rem 0rem 1.5rem;"
 />
 
 **Research journals** are one of the primary ways that researchers communicate their findings, ideas, and scholarly work with others in their fields. Publishing your work can help you develop your writing skills, contribute to the scholarly conversation, and make your work available for others to discover, build upon, and cite.
