@@ -28,9 +28,17 @@ home_card_description: "Hear how openness, collaboration, and reproducibility ha
 
 <br>
 
-<p style="background-color: yellow; font-weight: bold; font-style: italic;">
-  More information to come!
-</p>
+## Keynote Title
+
+**Open Science in the Age of AI: A Structural Biologist's Perspective**
+
+<br>
+
+## Description
+
+In 2020, [AlphaFold transformed the field of structural biology](https://doi.org/10.1038/d41586-021-02265-4) by using artificial intelligence (AI) to solve a problem researchers had worked on for over fifty years: predicting the three-dimensional structure of proteins. Its success was made possible in part by the extensive collection of protein structures that biologists have openly shared in the Protein Data Bank since 1971. AlphaFold demonstrates how research shared today can enable discoveries that its creators may never have anticipated.
+
+Drawing on his experiences as a structural biologist, Dr. Fraser will explore what it means to practice open science as new technologies reshape how research is conducted and shared. He will discuss how data increasingly have both human and machine audiences, as well as the debate over the missing AlphaFold3 code. Dr. Fraser will also reflect on the research questions he chooses to tackle because AI still cannot solve them, and why reviewing the work of others is one of the best ways to learn how to become a scientist.
 
 <br>
 
