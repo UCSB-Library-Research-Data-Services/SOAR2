@@ -28,13 +28,7 @@ home_card_description: "Hear how openness, collaboration, and reproducibility ha
 
 <br>
 
-<p style="background-color: yellow; font-weight: bold; font-style: italic;">
-  More information to come!
-</p>
-
-<br>
-
-## Title
+## Keynote Title
 
 **Open Science in the Age of AI: A Structural Biologist's Perspective**
 
