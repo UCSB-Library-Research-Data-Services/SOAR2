@@ -21,7 +21,7 @@ The following resource pages are designed to help you explore some of these oppo
     />
 </a>
 
-Research programs can provide structured opportunities to gain research experience, develop new skills, and work with mentors. Many programs also offer professional development, funding, or opportunities to connect with a community of fellow researchers. [**Explore research programs**]({{ "/resources/research-programs/" | relative_url }}) for to undergraduate researchers at UCSB and beyond.
+Research programs can provide structured opportunities to gain research experience, develop new skills, and work with mentors. Many programs also offer professional development, funding, or opportunities to connect with a community of fellow researchers. [**Explore research programs**]({{ "/resources/research-programs/" | relative_url }}) for undergraduate researchers at UCSB and beyond.
 
 <br>
 
