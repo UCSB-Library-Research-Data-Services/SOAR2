@@ -38,7 +38,25 @@ home_card_description: "Explore the research lifecycle, refine a research questi
 
 ## Slides and Handouts
 
-Add linkes of of slides and handouts
+**Handout**
+
+* Make a copy of [the Google Doc](https://docs.google.com/document/d/1NV4dXMMjOh2-UvKLuMOcy8FMx7MDnrxBwPxV_idOSIs/copy) (remember to sign-in to your UCSB Google Account), OR
+* Download the [PDF version](https://drive.google.com/uc?export=download&id=1pWs0g8OVrEkKnh2StujrBJPbHlBqlgxv)
+
+
+**Slides**
+
+<iframe
+  src="https://docs.google.com/presentation/d/1kvCUMxQh2gW1GNdYespu9FCIXKeYmZ4w3YO-QlykF6E/preview"                  
+  title="SOAR2 flyer for demo purpose"
+  style="
+    width: 100%;
+    max-width: 100%;
+    height: min(65vh, 700px);
+    border: 1px solid #ddd;
+    display: block;
+  ">
+</iframe>
 
 <br>
 
