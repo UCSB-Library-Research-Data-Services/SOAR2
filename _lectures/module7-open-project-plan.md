@@ -23,6 +23,10 @@ home_schedule_order: 10
 home_day_label: "Day 3"
 home_card_description: "NA"
 
+links:
+  - name: Session instructions
+    url: /sessions/presentation/
+
 ---
 
 <br>
@@ -67,6 +71,7 @@ Your Open Research Plan presentation is designed to be short and simple:
 {% include button.html
   button_name="Open the Open Research Plan Slide deck →"
   button_class="outline-primary"
+  custom_class="soar-resource-btn"
   url="https://docs.google.com/presentation/d/1KCtjX4Zv8mD1WTw_mLkEjVaZMKl1opktmXFmF7TSgMQ/edit?usp=sharing"
   new_tab=true
 %}
