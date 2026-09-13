@@ -46,7 +46,7 @@ Your Open Research Plan presentation is designed to be short and simple:
 />
 
 
-### 1 MINUTE
+### **1 MINUTE**
 
 **Talk about your research.** Briefly introduce a research project you are currently working on, have worked on, or would like to pursue. Focus on giving your audience enough context to understand what you are interested in and why.
 
@@ -64,17 +64,16 @@ Your Open Research Plan presentation is designed to be short and simple:
 
 <br>
 
-
-## Preparing Your Slide
-
-We will use one **shared slide deck** for all Open Research Plan presentations.
-
 {% include button.html
   button_name="Open the Open Research Plan Slide deck →"
   button_class="outline-primary"
   url="https://docs.google.com/presentation/d/1KCtjX4Zv8mD1WTw_mLkEjVaZMKl1opktmXFmF7TSgMQ/edit?usp=sharing"
   new_tab=true
 %}
+
+## Preparing Your Slide
+
+We will use one **shared slide deck** for all Open Research Plan presentations.
 
 **Your slide is already in the deck and labeled with your name.** Please edit only the slide with your name on it. You do not need to add a new slide or change the order of the slides.
 
