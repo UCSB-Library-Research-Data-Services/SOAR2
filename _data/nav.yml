@@ -27,6 +27,8 @@ items:
       name: "Module 5: Gen AI in Research"
     - url_internal: /sessions/module6/
       name: "Module 6: Open Research Identity"
+    - url_internal: /sessions/presentation/
+      name: "Open Research Plan Presentation"
     - url_internal: /sessions/keynote/
       name: "Keynote Lecture"
     - url_internal: /sessions/facility/

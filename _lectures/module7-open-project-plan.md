@@ -4,7 +4,7 @@ permalink: /sessions/presentation/
 
 type: lecture
 session_type: "module"
-session_type_key: "moudle"
+session_type_key: "module"
 session_number: 7
 
 date: 2026-09-23T13:00:00-7:00
@@ -39,6 +39,13 @@ The goal is **not to give a polished research presentation**. Instead, this is a
 
 Your Open Research Plan presentation is designed to be short and simple:
 
+<img
+    src="{{ '/_images/program/presentation-format.png' | relative_url }}"
+    alt="image highlighting 1-1-1-1 format of the open research presentation"
+    style="float: right; width: 55%; max-width: 700px; min-width: 380px; margin: 0 1.5rem 0rem 1.5rem;"
+/>
+
+
 ### 1 MINUTE
 
 **Talk about your research.** Briefly introduce a research project you are currently working on, have worked on, or would like to pursue. Focus on giving your audience enough context to understand what you are interested in and why.
@@ -65,7 +72,6 @@ We will use one **shared slide deck** for all Open Research Plan presentations.
 {% include button.html
   button_name="Open the Open Research Plan Slide deck →"
   button_class="outline-primary"
-  custom_class="presentation-btn"
   url="https://docs.google.com/presentation/d/1KCtjX4Zv8mD1WTw_mLkEjVaZMKl1opktmXFmF7TSgMQ/edit?usp=sharing"
   new_tab=true
 %}
@@ -74,8 +80,8 @@ We will use one **shared slide deck** for all Open Research Plan presentations.
 
 Use the prompts in the template to help you decide what to include. Because you will only have about one minute, your slide should support what you say rather than contain everything you plan to say.
 
-
 <br>
+
 
 ## What Happens During the Session?
 
@@ -83,7 +89,7 @@ We will present directly from the shared slide deck. **The slides are already ar
 
 You'll have about one minute to talk about your research and another minute to share your SOAR² takeaway and take one question from the audience. Then we'll move on to the next person.
 
-**Most importantly, this is a space to practice, reflect, and learn from each other.** We’re not looking for perfection—we’re looking forward to hearing about what interests you and what you’ll carry forward from SOAR².
+**Most importantly, this is a space to practice, reflect, and learn from each other.** We’re not looking for perfection — we’re looking forward to hearing about what interests you and what you’ll carry forward from SOAR².
 
 
 <br>
