@@ -22,13 +22,6 @@ lead_instructors:
   - melo-florez-jairo
   - janee-greg
 
-materials_status: forthcoming
-slides: []
-handouts: []
-
-resources_status: forthcoming
-additional_resources: []
-
 thumbnail: /_images/modules/module5-gen-ai.png
 thumbnail_alt: Icon for the Generative AI in Research module
 
@@ -40,6 +33,16 @@ home_day_label: "Day 3"
 home_card_description: "Evaluate when and how GenAI can support research while recognizing its opportunities and limitations"
 
 ---
-[//]: # Item in this section gets added to the Schedule page
-[//]: # #- [Readings 1](http://example.com)
-[//]: # #- [Readings 2](http://example.com)
+
+## Handouts
+
+TBA
+
+<br>
+
+
+## Slides
+
+TBA
+
+<br>

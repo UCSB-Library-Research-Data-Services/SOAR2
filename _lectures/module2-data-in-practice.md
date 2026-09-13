@@ -19,17 +19,9 @@ learning_objectives:
   - "**Compare** spreadsheet- and code-based approaches to data analysis, including their implications for transparency, reproducibility, and reuse"
   - "**Evaluate** the limitations of a dataset and the conclusions that can reasonably be drawn from it"
 
-
 lead_instructors:
   - janee-greg
   - nino-muriel-jose
-
-materials_status: forthcoming
-slides: []
-handouts: []
-
-resources_status: forthcoming
-additional_resources: []
 
 thumbnail: /_images/modules/module2-data-in-practice.png
 thumbnail_alt: Icon for the Data in Practice module
@@ -42,6 +34,17 @@ home_day_label: "Day 1"
 home_card_description: "Work with real data while learning practical strategies for organization, analysis, and visualization"
 
 ---
-[//]: # Item in this section gets added to the Schedule page
-[//]: # #- [Readings 1](http://example.com)
-[//]: # #- [Readings 2](http://example.com)
+
+## Handouts
+
+TBA
+
+<br>
+
+
+## Slides
+
+TBA
+
+<br>
+
