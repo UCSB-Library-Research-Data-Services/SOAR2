@@ -24,13 +24,6 @@ lead_instructors:
   - li-xiuqi
   - cong-huyen-anne
 
-materials_status: forthcoming
-slides: []
-handouts: []
-
-resources_status: forthcoming
-additional_resources: []
-
 thumbnail: /_images/modules/module1-entering-research.png
 thumbnail_alt: Icon for the Entering Research module
 
@@ -42,6 +35,24 @@ home_day_label: "Day 1"
 home_card_description: "Explore the research lifecycle, refine a research question, and discover opportunities to get involved at UCSB"
 
 ---
-[//]: # Item in this section gets added to the Schedule page
+
+## Handouts
+
+TBA
+
+<br>
+
+
+## Slides
+
+TBA
+
+<br>
+
+## Additional Resources
+
+TBA
+
+[//]: # This content is not shown
 [//]: # #- [Readings 1](http://example.com)
 [//]: # #- [Readings 2](http://example.com)

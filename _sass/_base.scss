@@ -537,6 +537,25 @@ a.tosu {
   color: #fff !important;
 }
 
+/* Session resource buttons */
+.soar-resource-btn {
+  background-color: #09847A !important;
+  border-color: #09847A !important;
+  color: #fff !important;
+  font-size: 1.1rem;
+  font-weight: 700;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+}
+
+.soar-resource-btn:hover,
+.soar-resource-btn:focus,
+.soar-resource-btn:active {
+  background-color: #076b63 !important;
+  border-color: #076b63 !important;
+  color: #fff !important;
+}
+
 
 /* Opportunities Table under Resources */
 .opportunities-table {
@@ -818,4 +837,3 @@ a.tosu {
     grid-template-columns: 1fr;
   }
 }
-

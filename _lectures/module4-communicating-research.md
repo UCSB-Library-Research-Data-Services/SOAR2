@@ -18,17 +18,9 @@ learning_objectives:
   - "**Identify** different ways research outputs can be shared, including data, code, and protocols"
   - "**Evaluate** considerations for sharing and reusing research responsibly and openly"
 
-
 lead_instructors:
   - chikowero-angela
   - cong-huyen-anne
-
-materials_status: forthcoming
-slides: []
-handouts: []
-
-resources_status: forthcoming
-additional_resources: []
 
 thumbnail: /_images/modules/module4-communicating-research.png
 thumbnail_alt: Icon for the Communicating Research module
@@ -41,6 +33,16 @@ home_day_label: "Day 2"
 home_card_description: "Explore how research is shared through publications, presentations, and other scholarly outputs"
 
 ---
-[//]: # Item in this section gets added to the Schedule page
-[//]: # #- [Readings 1](http://example.com)
-[//]: # #- [Readings 2](http://example.com)
+
+## Handouts
+
+TBA
+
+<br>
+
+
+## Slides
+
+TBA
+
+<br>

@@ -22,13 +22,6 @@ lead_instructors:
   - curty-renata
   - brun-julien
 
-materials_status: forthcoming
-slides: []
-handouts: []
-
-resources_status: forthcoming
-additional_resources: []
-
 thumbnail: /_images/modules/module3-documentation.png
 thumbnail_alt: Icon for the Documentation and Reproducibility module
 
@@ -40,6 +33,16 @@ home_day_label: "Day 2"
 home_card_description: "Learn practical strategies for documenting research so your work is organized, transparent, and reproducible"
 
 ---
-[//]: # Item in this section gets added to the Schedule page
-[//]: # #- [Readings 1](http://example.com)
-[//]: # #- [Readings 2](http://example.com)
+
+## Handouts
+
+TBA
+
+<br>
+
+
+## Slides
+
+TBA
+
+<br>

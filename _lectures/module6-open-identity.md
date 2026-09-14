@@ -22,13 +22,6 @@ lead_instructors:
   - cong-huyen-anne
   - li-xiuqi
 
-materials_status: forthcoming
-slides: []
-handouts: []
-
-resources_status: forthcoming
-additional_resources: []
-
 thumbnail: /_images/modules/module6-open-identity.png
 thumbnail_alt: Icon for the Open Research Identity module
 
@@ -40,6 +33,16 @@ home_day_label: "Day 3"
 home_card_description: "Build your professional research identity and create a roadmap for your continued growth"
 
 ---
-[//]: # Item in this section gets added to the Schedule page
-[//]: # #- [Readings 1](http://example.com)
-[//]: # #- [Readings 2](http://example.com)
+
+## Handouts
+
+TBA
+
+<br>
+
+
+## Slides
+
+TBA
+
+<br>
