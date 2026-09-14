@@ -23,9 +23,9 @@ home_schedule_order: 10
 home_day_label: "Day 3"
 home_card_description: "NA"
 
-links:
-  - name: Session instructions
-    url: /sessions/presentation/
+#links:
+#  - name: Session instructions
+#    url: /sessions/presentation/
 
 ---
 
