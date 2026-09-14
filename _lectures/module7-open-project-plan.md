@@ -39,16 +39,16 @@ The goal is **not to give a polished research presentation**. Instead, this is a
 
 <br>
 
-## The 1-1-1-1 format
-
-Your Open Research Plan presentation is designed to be short and simple:
-
 <img
     src="{{ '/_images/program/presentation-format.png' | relative_url }}"
     alt="image highlighting 1-1-1-1 format of the open research presentation"
     style="float: right; width: 55%; max-width: 700px; min-width: 380px; margin: 0 1.5rem 0rem 1.5rem;"
 />
 
+
+## The 1-1-1-1 format
+
+Your Open Research Plan presentation is designed to be short and simple:
 
 ### **1 MINUTE**
 
@@ -68,19 +68,20 @@ Your Open Research Plan presentation is designed to be short and simple:
 
 <br>
 
-{% include button.html
-  button_name="Open the Open Research Plan Slide deck →"
-  button_class="outline-primary"
-  custom_class="soar-resource-btn"
-  url="https://docs.google.com/presentation/d/1KCtjX4Zv8mD1WTw_mLkEjVaZMKl1opktmXFmF7TSgMQ/edit?usp=sharing"
-  new_tab=true
-%}
 
 ## Preparing Your Slide
 
 We will use one **shared slide deck** for all Open Research Plan presentations.
 
 **Your slide is already in the deck and labeled with your name.** Please edit only the slide with your name on it. You do not need to add a new slide or change the order of the slides.
+
+{% include button.html
+  button_name="Open the Open Research Plan Slide Deck →"
+  button_class="outline-primary"
+  custom_class="soar-resource-btn"
+  url="https://docs.google.com/presentation/d/1KCtjX4Zv8mD1WTw_mLkEjVaZMKl1opktmXFmF7TSgMQ/edit?usp=sharing"
+  new_tab=true
+%}
 
 Use the prompts in the template to help you decide what to include. Because you will only have about one minute, your slide should support what you say rather than contain everything you plan to say.
 
