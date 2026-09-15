@@ -37,6 +37,18 @@
     - Career Pathways Grant
     - Art of Science competition
 
+- name: Karen van Gool
+  first_name: Karen
+  title_phrase: Program Coordinator for
+  program: the UCSB UC LEADS Program
+  program_url: https://www.graddiv.ucsb.edu/uc-leads
+  headshot: /_images/collaborators/individual-karen-van-gool.jpeg
+  headshot_alt: Headshot of Karen van Gool
+  topics:
+    - UCSB UC LEADS Program
+    - Full-time summer mentored research 
+    - Koret UC LEADS Research & Leadership Symposium
+
 - name: Rebecca Candy
   first_name: Rebecca
   title_phrase: Program Manager for
@@ -47,4 +59,17 @@
   topics:
     - UCSB IT Internship Program
     - IT Apprenticeship Program
-    - Research support
+    - Career in research support
+
+- name: Anne Cong-Huyen
+  first_name: Anne
+  title_phrase: Research and Teaching Librarian at
+  program: the UCSB Library
+  headshot: /_images/instructors/cong-huyen-anne.jpeg
+  headshot_alt: Headshot of Anne Cong-Huyen
+  topics:
+    - Peer-Assisted Library Services (PALS) program
+    - Library Award for Undergraduate Research (LAUR)
+    - Harmonizing a home of multiple animal species
+    - Recent fiction about robots
+
