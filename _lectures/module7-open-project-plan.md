@@ -71,9 +71,9 @@ Your Open Research Plan presentation is designed to be short and simple:
 
 ## Preparing Your Slide
 
-We will use one **shared slide deck** for all Open Research Plan presentations.
+We will use one **shared Google slide deck** for all Open Research Plan presentations. To access this slide deck, you will need to **sign in using your UCSB credentials.**
 
-**Your slide is already in the deck and labeled with your name.** Please edit only the slide with your name on it. You do not need to add a new slide or change the order of the slides.
+**Your slide is already in the deck and labeled with your name.** Please edit only the slide with your name on it. You do **not** need to add a new slide or change the order of the slides.
 
 {% include button.html
   button_name="Open the Open Research Plan Slide Deck →"
