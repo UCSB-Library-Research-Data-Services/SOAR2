@@ -2,7 +2,7 @@
 
 - name: Anita Stahl
   first_name: Anita
-  title_phrase: Director of
+  title_phrase: the Director of
   program: the Office of Undergraduate Research and Creative Activities (URCA)
   program_url: https://urca.ucsb.edu/
   headshot: /_images/collaborators/individual-anita-stahl.jpg
@@ -13,13 +13,13 @@
     - Getting started with research as an undergraduate at UCSB
     - Tennis 🎾
 
-- name: Angelica Hernandez
-  first_name: Angelica
-  title_phrase: Program Coordinator for
+- name: Carolina Lechuga
+  first_name: Carolina
+  title_phrase: a Graduate Student Research Advisor for
   program: the McNair Scholars Program
   program_url: https://mcnair.ucsb.edu/
-  headshot: /_images/collaborators/individual-angelica-contreras-hernandez.jpeg
-  headshot_alt: Headshot of Angelica Contreras Hernandez
+  headshot: /_images/collaborators/individual-carolina-lechuga.png
+  headshot_alt: Headshot of Carolina Lechuga
   topics: 
     - McNair Scholars Program
     - Preparing for graduate school
@@ -27,7 +27,7 @@
 
 - name: Shelby Le
   first_name: Shelby
-  title_phrase: Undergraduate Program Coordinator for
+  title_phrase: the Undergraduate Program Coordinator for
   program: the Center for Science and Engineering Partnerships (CSEP)
   program_url: https://csep.ucsb.edu/programs
   headshot: /_images/collaborators/individual-shelby-le.png
@@ -37,9 +37,21 @@
     - Career Pathways Grant
     - Art of Science competition
 
+- name: Karen van Gool
+  first_name: Karen
+  title_phrase: the Program Coordinator for
+  program: the UCSB UC LEADS Program
+  program_url: https://www.graddiv.ucsb.edu/uc-leads
+  headshot: /_images/collaborators/individual-karen-van-gool.jpeg
+  headshot_alt: Headshot of Karen van Gool
+  topics:
+    - UCSB UC LEADS Program
+    - Full-time summer mentored research 
+    - Koret UC LEADS Research & Leadership Symposium
+
 - name: Rebecca Candy
   first_name: Rebecca
-  title_phrase: Program Manager for
+  title_phrase: the Program Manager for
   program: the UCSB IT Internship Program
   program_url: https://it.ucsb.edu/internship
   headshot: /_images/collaborators/individual-rebecca-candy.jpg
@@ -47,4 +59,17 @@
   topics:
     - UCSB IT Internship Program
     - IT Apprenticeship Program
-    - Research support
+    - Career in research support
+
+- name: Anne Cong-Huyen
+  first_name: Anne
+  title_phrase: a Research and Teaching Librarian at
+  program: the UCSB Library
+  headshot: /_images/instructors/cong-huyen-anne.jpeg
+  headshot_alt: Headshot of Anne Cong-Huyen
+  topics:
+    - Peer-Assisted Library Services (PALS) program
+    - Library Award for Undergraduate Research (LAUR)
+    - Harmonizing a home of multiple animal species 🐔🐶
+    - Recent fiction about robots 🤖
+

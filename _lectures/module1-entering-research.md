@@ -38,14 +38,25 @@ home_card_description: "Explore the research lifecycle, refine a research questi
 
 ## Handouts
 
-TBA
+* Make a copy of [the Google Doc](https://docs.google.com/document/d/1C98G2UDpZqbWOsjJmKqhfN3t0xnxGrS59J2xOnr_xfQ/copy) (remember to sign-in to your UCSB Google Account), OR
+* Download the [PDF version](https://drive.google.com/uc?export=download&id=1mTi1fNJA_XfEXRV5_8F8gzR1UQYPpx1C)
 
 <br>
 
 
 ## Slides
 
-TBA
+<iframe
+  src="https://docs.google.com/presentation/d/1FwtTpme9M6b7j8VaYrKaUAq-NgXngObw28PVH0a2IpU/preview"                  
+  title="SOAR2 Module 1 Slide Deck"
+  style="
+    width: 100%;
+    max-width: 100%;
+    height: min(65vh, 700px);
+    border: 1px solid #ddd;
+    display: block;
+  ">
+</iframe>
 
 <br>
 
