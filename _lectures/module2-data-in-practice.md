@@ -38,7 +38,18 @@ home_card_description: "Work with real data while learning practical strategies 
 
 ## Slides
 
-TBA
+<iframe
+  src="https://docs.google.com/presentation/d/1Uzf-lS5mqtd4MnCDhO4EfevCUlDMbvMXuNOrXfGpekQ/preview"
+  title="SOAR2 Module 2 Slide Deck"
+  style="
+    width: 100%;
+    max-width: 100%;
+    height: min(65vh, 700px);
+    border: 1px solid #ddd;
+    display: block;
+  ">
+</iframe>
+
 
 <br>
 
