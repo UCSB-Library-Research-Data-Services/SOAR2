@@ -34,15 +34,18 @@ home_card_description: "Learn practical strategies for documenting research so y
 
 ---
 
-## Handouts
-
-TBA
-
-<br>
-
-
 ## Slides
 
-TBA
+<iframe
+  src="https://docs.google.com/presentation/d/14fZ4H6IIfklW_kEhQxADOjaShuQdQ5NPRavQ_EI1pDc/preview"                  
+  title="SOAR2 Module 1 Slide Deck"
+  style="
+    width: 100%;
+    max-width: 100%;
+    height: min(65vh, 700px);
+    border: 1px solid #ddd;
+    display: block;
+  ">
+</iframe>
 
 <br>

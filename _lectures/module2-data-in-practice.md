@@ -35,12 +35,6 @@ home_card_description: "Work with real data while learning practical strategies 
 
 ---
 
-## Handouts
-
-TBA
-
-<br>
-
 
 ## Slides
 
