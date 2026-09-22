@@ -36,7 +36,8 @@ home_card_description: "Explore how research is shared through publications, pre
 
 ## Handouts
 
-TBA
+* Make a copy of [the Google Doc](https://docs.google.com/document/d/1oQb8hqSzIOu5z6nncyHcMr7yVppDwoMVBeOIk7NABTE/copy) (remember to sign-in to your UCSB Google Account), OR
+* Download the [PDF version](https://drive.google.com/uc?export=download&id=13P6For9WsZhyB8dNdujOYZJtRDCGg3y_)
 
 <br>
 
