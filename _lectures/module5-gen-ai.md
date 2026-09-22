@@ -36,13 +36,24 @@ home_card_description: "Evaluate when and how GenAI can support research while r
 
 ## Handouts
 
-TBA
+- [AI Uses and Perceptions Survey](https://docs.google.com/forms/d/e/1FAIpQLScFRglPSx_HHSAd3Hlz7K8K4girGW4Yp5-rD4ZIzKxXm_9YsQ/viewform)
+- [Activity 3 - Prompt](https://docs.google.com/document/d/1z8sKuSHq4zn6ldd4Xd6Cb_33oYFhkaHOB2UVDFoluH0/edit?usp=sharing)
 
 <br>
 
 
 ## Slides
 
-TBA
+<iframe
+  src="https://docs.google.com/presentation/d/1GJTMsQHDdVzJhDJo6CbQuUObXTqrwyOSuyAQ2qDESqw/preview"                  
+  title="SOAR2 Module 5 Slide Deck"
+  style="
+    width: 100%;
+    max-width: 100%;
+    height: min(65vh, 700px);
+    border: 1px solid #ddd;
+    display: block;
+  ">
+</iframe>
 
 <br>
