@@ -46,7 +46,7 @@ home_card_description: "Explore how research is shared through publications, pre
 
 <iframe
   src="https://docs.google.com/presentation/d/18SdCeku1p5MA0IvE5T8VIiuJS2nvINqe5t4WdpssLvA/preview"                  
-  title="SOAR2 Module 1 Slide Deck"
+  title="SOAR2 Module 4 Slide Deck"
   style="
     width: 100%;
     max-width: 100%;
