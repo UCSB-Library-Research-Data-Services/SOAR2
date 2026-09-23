@@ -36,13 +36,24 @@ home_card_description: "Build your professional research identity and create a r
 
 ## Handouts
 
-TBA
+* Make a copy of [the Google Doc](https://docs.google.com/document/d/1vFMYYW_fHq2XdmmLM792Yu63A6aUn4-NxqzZA5YD7BY/copy) (remember to sign-in to your UCSB Google Account), **OR**
+* Download the [PDF version](https://drive.google.com/uc?export=download&id=1CL4tWxYsxBfPaU2eOb-kAyB6RFTPKU1H)
 
 <br>
 
 
 ## Slides
 
-TBA
+<iframe
+  src="https://docs.google.com/presentation/d/1n0yIh0sdrJsD9tIMjJCNc-wkDW5KJEokypnfgb02y5k/preview"                  
+  title="SOAR2 Module 1 Slide Deck"
+  style="
+    width: 100%;
+    max-width: 100%;
+    height: min(65vh, 700px);
+    border: 1px solid #ddd;
+    display: block;
+  ">
+</iframe>
 
 <br>
