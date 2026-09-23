@@ -14,9 +14,10 @@ title: Generative AI in Research
 description: Explore how generative AI can be used across research workflows. You’ll examine both the possibilities and limitations of these tools, practice using AI for research tasks, and consider how to use it intentionally, critically, and responsibly. Along the way, you’ll explore questions around privacy, bias, transparency, reproducibility, and disclosure of AI use. 
 learning_objectives:
   - "**Identify** potential uses and limitations of generative AI across the research workflow"
-  - "**Apply** generative AI tools to support specific research tasks"
+  - "**Describe** the core LLM mechanics to evaluate and **select** appropriate AI models for specific research needs"
   - "**Evaluate** considerations for using generative AI critically and responsibly in research"
   - "**Document** and **disclose** the use of generative AI in research workflows and outputs"
+  - "**Apply** generative AI tools to support specific research tasks"
 
 lead_instructors:
   - melo-florez-jairo
@@ -37,7 +38,7 @@ home_card_description: "Evaluate when and how GenAI can support research while r
 ## Handouts
 
 - [AI Uses and Perceptions Survey](https://docs.google.com/forms/d/e/1FAIpQLScFRglPSx_HHSAd3Hlz7K8K4girGW4Yp5-rD4ZIzKxXm_9YsQ/viewform)
-- [Activity 3 - Prompt](https://docs.google.com/document/d/1z8sKuSHq4zn6ldd4Xd6Cb_33oYFhkaHOB2UVDFoluH0/edit?usp=sharing)
+- [Activity 3 - Prompt](https://docs.google.com/document/d/1z8sKuSHq4zn6ldd4Xd6Cb_33oYFhkaHOB2UVDFoluH0/view)
 
 <br>
 
