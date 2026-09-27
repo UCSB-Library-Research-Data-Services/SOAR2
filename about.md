@@ -76,12 +76,11 @@ SOAR² is a collaborative initiative led by **[Research Data Services (RDS)](htt
 
 SOAR² is also made possible through the generous support of campus partners who welcome students into their spaces and share their expertise. We are grateful to the many research facilities, centers, and campus programs that contributed to SOAR².
 
-
-<div class="about-highlight-box" markdown="1">
-
-**Image with logos of campus partners to come**
-
-</div>
+<img
+  src="{{ '/_images/collaborators/collaborators-compiled.png' | relative_url }}"
+  alt="Woodmarks of SOAR² Collaborators, including the Cheadle Center for Biodiversity & Ecological Restoration, the UCSB Library Special Reserch Collections, the Microscopy and Microanalysis Facility, the Center for Science and Engineering Partnerships, the Graduate Division, Information Technology, the McNair Scholars Program, and Undergraduate Research and Creative Activities."
+  style="float: center; width: 90%; margin: 0 0 1rem 1.5rem;"
+/>
 
 
 SOAR² is supported through the **Open Research Community Accelerator (ORCA) [Catalytic Awards Program](https://www.orcaopen.org/work/cap)**, which funds innovative projects that advance open research practices and community engagement.

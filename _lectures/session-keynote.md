@@ -22,7 +22,7 @@ home_card_description: "Hear how openness, collaboration, and reproducibility ha
 
 <img
   src="{{ '/_images/program/keynote-announcement.jpg' | relative_url }}"
-  alt="Announcement of Dr. James Fraser, Professor and Chair of the Department of BioEngineering & Therapeutic Sciences at UCSF, as the key keynote speaker for SOAR². His keynote lecture will take place on Sep 22, 9-10 am in Pacific View Room of the UCSB Library"
+  alt="Announcement of Dr. James Fraser, Professor and Chair of the Department of BioEngineering & Therapeutic Sciences at UCSF, as the key keynote speaker for SOAR². His keynote lecture will take place on Sep 22, 9-10 am in UCSB Library Room 1312"
   style="float: center; width: 90%; margin: 0 0 1rem 1.5rem;"
 />
 
