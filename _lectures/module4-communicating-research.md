@@ -7,7 +7,7 @@ session_type: "module"
 session_type_key: "module"
 module_number: 4
 
-date: 2026-09-22T13:00:00-7:00
+date: 2026-09-22T13:30:00-7:00
 location: Loma Pelona Center
 
 title: Communicating Research

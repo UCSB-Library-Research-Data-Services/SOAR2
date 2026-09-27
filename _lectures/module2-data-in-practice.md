@@ -7,7 +7,7 @@ session_type: "module"
 session_type_key: "module"
 module_number: 2
 
-date: 2026-09-21T13:00:00-7:00
+date: 2026-09-21T14:30:00-7:00
 location: Loma Pelona Center
 
 title: Data in Practice

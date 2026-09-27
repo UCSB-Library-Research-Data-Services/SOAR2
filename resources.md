@@ -5,9 +5,9 @@ permalink: /resources/
 ---
 <br>
 
-Research involves more than working on your project. As you become involved in research, you may have the opportunities to **join research programs, apply for funding and awards, present at conferences, and publish your work in journals**. Knowing about these opportunities — and how to find and pursue them — is an important part of navigating the research landscape.
+Research involves more than working on your project. As you become involved in research, you may have opportunities to **join research programs, apply for funding and awards, present at conferences, and publish your work in journals**. Knowing about these opportunities — and how to find and pursue them — is an important part of navigating the research landscape.
 
-The following resource pages are designed to help you explore some of these opportunities. They include those available at UCSB as well as opportunities beyond campus, along with guidance to help you identify options that fits your interests, disciplines, and stage of research.
+The following resource pages are designed to help you explore some of these opportunities. They include those available at UCSB as well as opportunities beyond campus, along with guidance to help you identify options that fit your interests, disciplines, and stage of research.
 
 <br>
 
@@ -35,7 +35,7 @@ Research programs can provide structured opportunities to gain research experien
     />
 </a>
 
-Funding isn’t just for faculty and graduate students. As undergraduate researchers, you are also eligible for grants that support research project, conference travel, and other research activities, as well as awards that recognize your work and accomplishments. [**Explore funding and award opportunities**]({{ "/resources/grants-and-awards/" | relative_url }}) available at UCSB and beyond.
+Funding isn’t just for faculty and graduate students. As undergraduate researchers, you are also eligible for grants that support research projects, conference travel, and other research activities, as well as awards that recognize your work and accomplishments. [**Explore funding and award opportunities**]({{ "/resources/grants-and-awards/" | relative_url }}) available at UCSB and beyond.
 
 <br>
 
@@ -65,7 +65,7 @@ Conferences provide opportunities to share your work, learn about research happe
     />
 </a>
 
-Publishing in scholarly journals is one way researcher share their findings and contribute to an ongoing scholarly conversation. You can choose to publish your work in a undergraduate research journal or a disciplinary journals. [**Explore possible journal publication venues**]({{ "/resources/journals/" | relative_url }}) for your research.
+Publishing in scholarly journals is one way researchers share their findings and contribute to an ongoing scholarly conversation. You can choose to publish your work in an undergraduate research journal or a disciplinary journal. [**Explore possible journal publication venues**]({{ "/resources/journals/" | relative_url }}) for your research.
 
 <br>
 

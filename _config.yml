@@ -45,13 +45,13 @@ timezone: America/Los_Angeles
 future: true
 collections:
     instructors:
-        output: true
+        output: false           # only uses the documents as data for the combined page.
     events:
-        output: true
+        output: false
     lectures:
         output: true
     assignments:
-        output: true
+        output: false
     announcements:
         output: false
 

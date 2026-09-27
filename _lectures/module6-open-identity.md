@@ -7,7 +7,7 @@ session_type: "module"
 session_type_key: "module"
 module_number: 6
 
-date: 2026-09-23T9:00:00-7:00
+date: 2026-09-23T10:30:00-7:00
 location: Loma Pelona Center
 
 title: Open Research Identity
@@ -46,7 +46,7 @@ home_card_description: "Build your professional research identity and create a r
 
 <iframe
   src="https://docs.google.com/presentation/d/1n0yIh0sdrJsD9tIMjJCNc-wkDW5KJEokypnfgb02y5k/preview"                  
-  title="SOAR2 Module 1 Slide Deck"
+  title="SOAR2 Module 6 Slide Deck"
   style="
     width: 100%;
     max-width: 100%;

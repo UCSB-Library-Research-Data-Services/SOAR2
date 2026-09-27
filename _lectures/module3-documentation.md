@@ -7,7 +7,7 @@ session_type: "module"
 session_type_key: "module"
 module_number: 3
 
-date: 2026-09-22T9:00:00-7:00
+date: 2026-09-22T10:30:00-7:00
 location: Loma Pelona Center
 
 title: Documentation & Reproducibility

@@ -62,8 +62,8 @@ SOAR² extends beyond traditional workshops. The program combines interactive in
 
 * **Six interconnected modules** explore different stages of the research process. Through hands-on activities, collaborative discussions, and reflection exercises, students build practical skills they can apply to their own research.
 * **Keynote lecture** from a researcher actively engaged in open and reproducible research. Participants hear firsthand how openness, transparency, and collaboration have shaped a research career and influenced scientific discovery.
-* **Visits to campus research facilities**  provide opportunities to explore cutting-edge instruments, specialized collections, and research environments while learning from the researchers and staff who support them.
-* **Pasta & Possibilities** brings together representatives from campus programs that support undergraduate research. This informal networking lunch helps students discover research opportunities, campus resources, and pathways for continued involvement in research beyond SOAR²: 
+* **Visits to campus research facilities** provide opportunities to explore cutting-edge instruments, specialized collections, and research environments while learning from the researchers and staff who support them.
+* **Pasta & Possibilities** brings together representatives from campus programs that support undergraduate research. This informal networking lunch helps students discover research opportunities, campus resources, and pathways for continued involvement in research beyond SOAR².
 
 See the **[SESSIONS]({{ "/sessions/" | relative_url }}) page** for more information, including the program schedule and module descriptions.
 
@@ -72,13 +72,13 @@ See the **[SESSIONS]({{ "/sessions/" | relative_url }}) page** for more informat
 
 ## Organizers & Partners
 
-SOAR² is a collaborative initiative led by **[Research Data Services (RDS)](https://www.library.ucsb.edu/research-data-services)** at the UCSB Library in partnership with the **[Office of Undergraduate Research and Creative Activities (URCA)](https://urca.ucsb.edu/)**. It brings together librarians, research facilitators, and invited speakers who contribute expertise across research methods, data practices, scholarly communication, and open scholarship. See the **[INSTRUCTORS]({{ "/instructors/" | relative_url }})** page for intructor bios. 
+SOAR² is a collaborative initiative led by **[Research Data Services (RDS)](https://www.library.ucsb.edu/research-data-services)** at the UCSB Library in partnership with the **[Office of Undergraduate Research and Creative Activities (URCA)](https://urca.ucsb.edu/)**. It brings together librarians, research facilitators, and invited speakers who contribute expertise across research methods, data practices, scholarly communication, and open scholarship. See the **[INSTRUCTORS]({{ "/instructors/" | relative_url }})** page for instructor bios. 
 
 SOAR² is also made possible through the generous support of campus partners who welcome students into their spaces and share their expertise. We are grateful to the many research facilities, centers, and campus programs that contributed to SOAR².
 
 <img
   src="{{ '/_images/collaborators/collaborators-compiled.png' | relative_url }}"
-  alt="Woodmarks of SOAR² Collaborators, including the Cheadle Center for Biodiversity & Ecological Restoration, the UCSB Library Special Reserch Collections, the Microscopy and Microanalysis Facility, the Center for Science and Engineering Partnerships, the Graduate Division, Information Technology, the McNair Scholars Program, and Undergraduate Research and Creative Activities."
+  alt="Wordmarks of SOAR² Collaborators, including the Cheadle Center for Biodiversity & Ecological Restoration, the UCSB Library Special Research Collections, the Microscopy and Microanalysis Facility, the Center for Science and Engineering Partnerships, the Graduate Division, Information Technology, the McNair Scholars Program, and Undergraduate Research and Creative Activities."
   style="float: center; width: 100%; margin: 0 0 1rem 1.5rem;"
 />
 

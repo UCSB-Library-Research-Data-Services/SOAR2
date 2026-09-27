@@ -2,11 +2,8 @@
 layout: page
 title: "README for Instructors"
 permalink: /sessions/for-instructors/
+published: false
 ---
-
-_** Note, this page will only be visible on the DEV page. It will be hidden on the [actual SOAR² program website](https://ucsb-library-research-data-services.github.io/SOAR2/) for students._
-
-<br/>
 
 ## Module Page Content
 

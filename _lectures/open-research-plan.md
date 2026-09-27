@@ -7,7 +7,7 @@ session_type: "module"
 session_type_key: "module"
 session_number: 7
 
-date: 2026-09-23T13:00:00-7:00
+date: 2026-09-23T14:00:00-7:00
 location: Loma Pelona Center
 
 title: Open Project Plan

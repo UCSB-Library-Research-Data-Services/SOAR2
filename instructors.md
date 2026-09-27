@@ -4,4 +4,4 @@ title: Instructors
 permalink: /instructors/
 ---
 
-### *Confirmed instructors, listed alphabetical by last name.*
+### *2026 instructors, listed alphabetically by last name.*
