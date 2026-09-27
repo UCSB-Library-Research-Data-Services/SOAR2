@@ -79,7 +79,7 @@ SOAR² is also made possible through the generous support of campus partners who
 <img
   src="{{ '/_images/collaborators/collaborators-compiled.png' | relative_url }}"
   alt="Woodmarks of SOAR² Collaborators, including the Cheadle Center for Biodiversity & Ecological Restoration, the UCSB Library Special Reserch Collections, the Microscopy and Microanalysis Facility, the Center for Science and Engineering Partnerships, the Graduate Division, Information Technology, the McNair Scholars Program, and Undergraduate Research and Creative Activities."
-  style="float: center; width: 90%; margin: 0 0 1rem 1.5rem;"
+  style="float: center; width: 100%; margin: 0 0 1rem 1.5rem;"
 />
 
 
